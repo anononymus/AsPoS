@@ -1,0 +1,2078 @@
+
+এই	DM_DMD
+লোকসকলে	N_NN
+প্ৰথমে	RB
+উচ্চতম	N_NN
+ন্যায়ালয়ত	N_NN
+ৰাম	N_NNP
+মন্দিৰৰ	N_MNN
+বিৰোধিতা	V_VBT
+কৰিছিল	V_VBT
+পিছত	N_NST
+ভূমি	N_MNN
+পূজনৰ	N_VNN
+বিৰোধিতা	V_VBT
+কৰাত	V_VBT
+লাগিছিল	V_VAUX
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+আমাৰ	PR_PRP
+দেশত	N_MNN
+এনেকুৱা	J_PJJ
+বহু	J_PJJ
+সৰু	J_PJJ
+সৰু	J_PJJ
+দল	N_ANN
+আছে	V_VAUX
+যি	PR_PRL
+কেতিয়াও	RB
+শাসনলৈ	N_ANN
+অহাৰ	J_PJJ
+সুযোগ	N_ANN
+পোৱা	V_VM
+নাই	V_VBT
+।	RD_PUNC
+
+
+নিজৰ	PR_PRP
+প্ৰতিষ্ঠাৰ	N_ANN
+পৰা	PSP
+বৰ্তমানলৈকে	N_ANN
+তেওঁলোকে	PR_PRP
+বেছিভাগ	N_NN
+সময়	N_ANN
+বিপক্ষতে	N_ANN
+অতিবাহিত	V_VBT
+কৰিছে	V_VBT
+।	RD_PUNC
+
+
+ইমান	J_PJJ
+বছৰ	N_ANN
+ধৰি	V_VM
+বিপক্ষত	N_ANN
+বহা	N_ANN
+সত্ত্বেও	N_NN
+তেওঁলোকে	PR_PRP
+তেতিয়াও	CC_CCD
+দেশৰ	N_NN
+বিৰোধিতা	V_VBT
+কৰা	V_VBT
+নাই	V_VBT
+,	RD_PUNC
+দেশৰ	N_NN
+বিৰুদ্ধে	J_PJJ
+কাম	N_ANN
+নাই	V_VBT
+কৰা	V_VM
+।	RD_PUNC
+
+
+কিন্তু	CC_CCD
+কিছুমান	J_PJJ
+মানুহ	N_NN
+বিপক্ষত	N_ANN
+বহা	N_ANN
+কেইবছৰমানহে	N_NN
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+তেওঁলোকৰ	J_PJJ
+গতি-বিধি	N_NNP
+কি	PR_PRQ
+,	PR_PRQ
+তেওঁলোকৰ	J_PJJ
+আকাংক্ষা	N_ANN
+কি	PR_PRQ
+,	PR_PRQ
+সেয়া	PR_PRP
+আজি	J_PJJ
+দেশে	N_ANN
+দেখি	V_VM
+আছে	V_VAUX
+,	RD_PUNC
+বুজি	N_NN
+আছে	V_VAUX
+।	RD_PUNC
+
+
+এওঁলোকৰ	PR_PRP
+স্বাৰ্থনীতিৰ	N_NN
+মাজত	N_NST
+,	RD_PUNC
+আত্মনিৰ্ভৰ	N_NN
+ভাৰতৰ	N_NNP
+বাবে	PSP
+বৃহৎ	J_PJJ
+ৰিফৰ্মছৰ	N_NNP
+এই	DM_DMD
+প্ৰক্ৰিয়া	N_ANN
+,	RD_PUNC
+দেশৰ	N_NN
+সম্পদক	N_ANN
+উন্নত	V_VBT
+কৰাৰ	V_VBT
+এই	DM_DMD
+প্ৰক্ৰিয়া	N_ANN
+দেশৰ	N_NN
+হিতৰ	N_ANN
+বাবে	PSP
+,	RD_PUNC
+দেশৰ	N_NN
+দৰিদ্ৰতাৰ	J_PJJ
+পৰা	PSP
+মুক্তিৰ	N_ANN
+অভিযানৰ	N_ANN
+বাবে	PSP
+,	RD_PUNC
+দেশক	N_MNN
+শক্তিশালী	J_PJJ
+কৰিবৰ	V_VM
+বাবে	PSP
+,	RD_PUNC
+আৰু	CC_CCD
+ই	PR_PRP
+নিৰন্তৰ	J_PJJ
+চলি	V_VBT
+থাকিব	V_VBT
+।	RD_PUNC
+
+
+আকৌ	RB
+এবাৰ	RB
+আপোনালোক	PR_PRP
+সকলোকে	PR_PRP
+বিকাশৰ	N_ANN
+সকলো	PR_PRP
+প্ৰকল্পৰ	N_ANN
+বাবে	PSP
+বহুত	RB
+বহুত	RB
+অভিনন্দন	V_VBT
+জনাইছো	V_VBT
+।	RD_PUNC
+
+
+পুনৰ	RB
+মই	PR_PRP
+আগ্ৰহ	N_ANN
+প্ৰকাশ	V_VBT
+কৰিম	V_VBT
+যে	CC_CCD
+আপোনালোকে	PR_PRP
+নিজৰ	PR_PRP
+যতন	N_ANN
+ল'ব	N_NN
+।	RD_PUNC
+
+
+সুস্থ	J_PJJ
+থাকক	N_MNN
+,	RD_PUNC
+সুৰক্ষিত	J_PJJ
+থাকক	N_MNN
+।	RD_PUNC
+
+
+বাবা	N_NN
+কেদাৰৰ	N_NNP
+কৃপা	N_ANN
+আমাৰ	PR_PRP
+সকলোৰে	PR_PRP
+ওপৰত	N_NST
+সদায়	RB
+থাকক	N_MNN
+।	RD_PUNC
+
+
+এই	DM_DMD
+কামনাৰে	N_ANN
+বহুত	RB
+বহুত	RB
+ধন্যবাদ	N_NN
+!	RD_PUNC
+
+
+জয়	N_ANN
+গংগে	N_NNP
+!	RD_PUNC
+
+
+
+*	RD_PUNC
+*	RD_PUNC
+*	RD_PUNC
+VRRK	RD_RDF
+/	RD_PUNC
+KP	RD_RDF
+/	RD_PUNC
+BM	RD_RDF
+
+
+ভাৰত-ডেনমাৰ্কৰ	N_NNP
+দ্বিপাক্ষিক	J_PJJ
+ভাৰ্চুৱেল	N_NN
+সন্মিলনত	N_ANN
+প্ৰধানমন্ত্ৰীৰ	N_NN
+উদ্বোধনী	J_PJJ
+ভাষ	N_NN
+
+
+নমস্কাৰ	N_ANN
+,	RD_PUNC
+Excellency	RD_RDF
+!	RD_PUNC
+
+
+এই	DM_DMD
+'ভাৰ্চুৱেল	N_NNP
+ছাম্মিট'ৰ	N_NN
+মাধ্যমেৰে	N_MNN
+আপোনাৰ	PR_PRP
+সৈতে	CC_CCD
+কথা	N_ANN
+পতাৰ	N_ANN
+সুযোগ	N_ANN
+লাভ	V_VBT
+কৰিছো	V_VBT
+,	RD_PUNC
+ইয়াৰ	PR_PRP
+বাবে	PSP
+মই	PR_PRP
+বহু	J_PJJ
+আনন্দিত	J_PJJ
+।	RD_PUNC
+
+
+সৰ্বপ্ৰথমে	RB
+মই	PR_PRP
+ডেনমাৰ্কৰ	N_NNP
+ক'ভিড-১৯ৰ	QT_QTC
+বাবে	PSP
+হোৱা	V_VBI
+ক্ষতিৰ	N_ANN
+বাবে	PSP
+সমবেদনা	N_ANN
+ব্যক্ত	V_VBT
+কৰিছো	V_VBT
+।	RD_PUNC
+
+
+এই	DM_DMD
+সংকটৰ	N_ANN
+সৈতে	CC_CCD
+মোকাবিলা	N_ANN
+কৰিবলৈ	V_VM
+আপোনাৰ	PR_PRP
+দক্ষতাপূৰ্ণ	J_PJJ
+নেতৃত্বক	N_ANN
+অভিনন্দনো	N_ANN
+জনাইছো	V_VAUX
+।	RD_PUNC
+
+
+সকলো	PR_PRP
+ব্যস্ততাৰ	J_VJJ
+মাজত	N_NST
+আপুনি	PR_PRP
+এই	DM_DMD
+বাৰ্তালাপৰ	N_ANN
+বাবে	PSP
+সময়	N_ANN
+উলিয়াইছে	V_VM
+,	RD_PUNC
+এয়া	PR_PRP
+আমাৰ	PR_PRP
+পাৰস্পৰিক	J_PJJ
+সম্পৰ্কৰ	N_ANN
+প্ৰতি	RB
+আপোনাৰ	PR_PRP
+বিশেষ	J_PJJ
+'ফ'কাছ'	N_NN
+আৰু	CC_CCD
+'কমিটমেণ্ট'ক	N_NN
+দৰ্শাইছে	N_NN
+।	RD_PUNC
+
+
+অলপতে	RB
+আপোনাৰ	PR_PRP
+বিবাহ	N_ANN
+সম্পন্ন	J_VJJ
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+মই	PR_PRP
+ইয়াৰ	PR_PRP
+বাবে	PSP
+আপোনাক	PR_PRF
+মংগলময়	J_PJJ
+শুভ	J_PJJ
+কামনা	N_ANN
+জনাইছো	V_VAUX
+আৰু	CC_CCD
+আশা	V_VBI
+কৰিছো	V_VBI
+যে	CC_CCD
+ক'ভিড-১৯ৰ	QT_QTC
+পৰা	PSP
+উৎপন্ন	N_ANN
+হোৱা	V_VBI
+পৰিস্থিতি	N_ANN
+সলনি	J_PJJ
+হোৱাৰ	J_PJJ
+পিছত	N_NST
+,	RD_PUNC
+শীঘ্ৰেই	RB
+আমি	PR_PRP
+আপোনাক	PR_PRF
+সপৰিয়ালে	J_VJJ
+ভাৰতত	N_NNP
+স্বাগতম	N_ANN
+জনোৱাৰ	N_NN
+সুযোগ	N_ANN
+লাভ	V_VBT
+কৰিম	V_VBT
+।	RD_PUNC
+
+
+মোৰ	PR_PRP
+বিশ্বাস	N_ANN
+যে	CC_CCD
+আপোনাৰ	PR_PRP
+জীয়ৰী	N_NN
+ইদা	N_NN
+আকৌ	RB
+ভাৰতলৈ	N_NNP
+আহিবৰ	V_VM
+বাবে	PSP
+নিশ্চয়	RB
+আগ্ৰহী	J_PJJ
+হ'ব	V_VM
+।	RD_PUNC
+
+
+কেইমাহমানৰ	N_NN
+আগতে	N_NST
+ফোনত	N_MNN
+আমাৰ	PR_PRP
+মাজত	N_NST
+যথেষ্ট	J_PJJ
+'প্ৰডাক্টিভ'	N_NN
+কথা-বতৰা	N_ANN
+হৈছিল	V_VAUX
+।	RD_PUNC
+
+
+আমি	PR_PRP
+কেইবাটাও	J_PJJ
+ক্ষেত্ৰত	N_NST
+ভাৰত	N_NNP
+আৰু	CC_CCD
+ডেনমাৰ্কৰ	N_NNP
+মাজত	N_NST
+সহযোগিতা	N_ANN
+বঢ়োৱাৰ	V_VM
+বিষয়ে	IN
+আলোচনা	V_VBT
+কৰিছিলো	V_VBT
+।	RD_PUNC
+
+
+ই	PR_PRP
+আনন্দৰ	N_ANN
+বিষয়	N_ANN
+যে	CC_CCD
+আজি	J_PJJ
+আমি	PR_PRP
+এই	DM_DMD
+'ভাৰ্চুৱেল	N_NNP
+ছাম্মিট'ৰ	N_NN
+মাধ্যমেৰে	N_MNN
+এই	DM_DMD
+লক্ষ্যসমূহক	N_NN
+নতুন	J_PJJ
+দিশ	N_ANN
+আৰু	CC_CCD
+গতি	N_VNN
+প্ৰদান	V_VBT
+কৰি	V_VBT
+আছো	V_VM
+।	RD_PUNC
+
+
+ডেনমাৰ্কে	N_NNP
+২০১৯ৰ	QT_QTC
+পৰা	PSP
+,	RD_PUNC
+যেতিয়া	CC_CCS
+মই	PR_PRP
+গুজৰাটৰ	N_NNP
+মুখ্যমন্ত্ৰী	N_NN
+আছিলো	V_VAUX
+,	RD_PUNC
+'ভাইব্ৰেণ্ট	N_NN
+গুজৰাট	N_NNP
+ছাম্মিট'ত	N_NN
+একেৰাহে	RB
+সন্মিলিত	J_PJJ
+হৈ	IN
+আছিলো	V_VAUX
+,	RD_PUNC
+সেয়ে	CC_CCS
+ডেনমাৰ্কৰ	N_NNP
+প্ৰতি	RB
+মোৰ	PR_PRP
+বিশেষ	J_PJJ
+প্ৰীতিও	N_ANN
+আছে	V_VAUX
+।	RD_PUNC
+
+
+মই	PR_PRP
+দ্বিতীয়	QT_QTO
+'ইণ্ডিয়া-নাৰ্ডিক	N_NNP
+ছাম্মিট'ৰ	N_NN
+'হষ্ট'	N_NN
+কৰিবলৈ	V_VM
+আপোনাৰ	PR_PRP
+প্ৰস্তাৱৰ	N_ANN
+বাবে	PSP
+কৃতজ্ঞ	J_PJJ
+।	RD_PUNC
+
+
+পৰিস্থিতি	N_ANN
+ভাল	J_PJJ
+হোৱাৰ	V_VBI
+পিছত	N_NST
+ডেনমাৰ্কলৈ	N_NNP
+অহা	J_PJJ
+আৰু	CC_CCD
+আপোনাৰ	PR_PRP
+সৈতে	CC_CCD
+লগ	N_ANN
+হোৱাটো	V_VBI
+মোৰবাবে	N_NN
+সৌভাগ্যৰ	N_ANN
+কথা	N_ANN
+হ'ব	V_VM
+।	RD_PUNC
+
+
+Excellency	RD_RDF
+,	RD_PUNC
+বিগত	J_PJJ
+কেইবাটাও	J_PJJ
+মাহৰ	N_ANN
+ঘটনাৱলীয়ে	N_ANN
+এই	DM_DMD
+কথা	N_ANN
+স্পষ্ট	V_VBT
+কৰি	V_VBT
+দিছে	V_VM
+যে	CC_CCD
+আমাৰ	PR_PRP
+দৰে	RB
+'লাইক-মাইণ্ডেড'	N_NN
+দেশৰ	N_NN
+,	RD_PUNC
+যি	PR_PRL
+এক	QT_QTC
+'ৰুলছ-বেছড	N_NN
+,	RD_PUNC
+ট্ৰেন্সপাৰেণ্ট	RD_RDF
+,	RD_PUNC
+হিউমেনিটেৰিয়ান'	N_NNP
+আৰু	CC_CCD
+'ডেমক্ৰেটিক	N_NN
+ভেল্যু-ছিষ্টেম'ৰ	N_NN
+শ্বেয়াৰ	N_NN
+কৰো	V_VBT
+,	RD_PUNC
+একেলগ	RB
+হৈ	RB
+কাম	V_VBI
+কৰাটো	V_VBI
+কিমান	PR_PRP
+আৱশ্যকীয়	J_PJJ
+!	RD_PUNC
+
+
+ভেকচিনৰ	N_NN
+বিকাশ	N_ANN
+সাধনতো	N_ANN
+'লাইক-মাইণ্ডেড'	N_NN
+দেশসমূহৰ	N_NN
+মাজত	N_NST
+সহযোগিতাৰে	N_ANN
+এই	DM_DMD
+মহামাৰীৰ	N_ANN
+মোকাবিলা	N_ANN
+কৰিবলৈ	V_VM
+সহায়	N_ANN
+হ'ব	V_VM
+।	RD_PUNC
+
+
+এই	DM_DMD
+মহামাৰীৰ	N_ANN
+সময়ত	N_NST
+,	RD_PUNC
+ভাৰতৰ	N_NNP
+'ফাৰ্মা'	N_NN
+উৎপাদন	N_ANN
+ক্ষমতা	N_ANN
+সমগ্ৰ	PR_PRP
+বিশ্বৰ	N_MNN
+বাবে	PSP
+উপযোগী	J_PJJ
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+আমি	PR_PRP
+এই	DM_DMD
+প্ৰয়াসকে	N_ANN
+ভেকচিনৰ	N_NN
+ক্ষেত্ৰতো	N_MNN
+কৰি	V_VM
+আছো	V_VM
+।	RD_PUNC
+
+
+আমাৰ	PR_PRP
+'আত্মনিৰ্ভৰ	N_NNP
+ভাৰত'	N_NNP
+অভিযানৰো	N_ANN
+এয়াই	PR_PRP
+প্ৰয়াস	N_ANN
+যে	CC_CCD
+প্ৰধান	J_PJJ
+আৰ্থিক	J_PJJ
+ক্ষেত্ৰসমূহত	N_NN
+ভাৰতৰ	N_NNP
+ক্ষমতা	N_ANN
+বৃদ্ধি	N_ANN
+পাওক	N_MNN
+আৰু	CC_CCD
+ই	PR_PRP
+বিশ্বতো	N_MNN
+কামত	N_ANN
+আহক	V_VM
+।	RD_PUNC
+
+
+এই	DM_DMD
+অভিযানৰ	N_ANN
+জৰিয়তে	CC_CCD
+আমি	PR_PRP
+'অল-ৰাউণ্ড	N_NN
+ৰিফৰ্মছ'ৰ	N_NNP
+ওপৰত	N_NST
+জোৰ	N_ANN
+দি	V_VM
+আছো	V_VM
+।	RD_PUNC
+
+
+'ৰেগুলেটৰী'	N_NN
+বা	CC_CCS
+'টেক্সেছন	N_NN
+ৰিফৰ্মছ'ৰে	N_NN
+ভাৰতত	N_NNP
+কাম	V_VBI
+কৰা	V_VBI
+কোম্পানীবিলাকো	N_ANN
+লাভবান	N_ANN
+হ'ব	V_VM
+।	RD_PUNC
+
+
+অন্য	PR_PRP
+ক্ষেত্ৰসমূহতো	N_NN
+'ৰিফৰ্মছ'ৰ	N_NN
+প্ৰক্ৰিয়া	N_ANN
+নিৰন্তৰ	J_PJJ
+অব্যাহত	V_VBT
+আছে	V_VAUX
+।	RD_PUNC
+
+
+সম্প্ৰতি	RB
+কৃষি	N_ANN
+আৰু	CC_CCD
+'লেবাৰ	N_NN
+ছেক্টৰছ'ত	N_NN
+গুৰুত্বপূৰ্ণ	J_PJJ
+সংস্কাৰ	V_VBT
+সাধন	N_ANN
+কৰা	V_VM
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+Excellency	RD_RDF
+,	RD_PUNC
+ক'ভিড-১৯য়ে	QT_QTC
+দেখুৱাইছে	V_VM
+যে	CC_CCD
+'গ্ল'বেল	N_NN
+ছাপ্লাই	N_NN
+চেইনছ'ৰ	N_NN
+কোনো	J_PJJ
+একক	J_PJJ
+উৎসৰ	N_ANN
+ওপৰত	N_NST
+অত্যাধিক	N_NN
+নিৰ্ভৰশীল	J_PJJ
+হোৱাটো	V_VBI
+আশংকাপূৰ্ণ	N_NN
+।	RD_PUNC
+
+
+আমি	PR_PRP
+জাপান	N_NNP
+আৰু	CC_CCD
+অষ্ট্ৰেলিয়াৰ	N_NNP
+সৈতে	CC_CCD
+মিলি	N_NN
+'ছাপ্লাই	N_NN
+চেইন	N_MNN
+ডাইভাৰ্ছিফিকেচন'	N_NN
+আৰু	CC_CCD
+'ৰেজিলিয়েঞ্চ'ৰ	N_NN
+বাবে	PSP
+কাম	V_VBI
+কৰি	V_VBI
+আছো	V_VM
+।	RD_PUNC
+
+
+অন্য	PR_PRP
+'লাইক-মাইণ্ডেড'	N_NN
+দেশো	N_MNN
+এই	DM_DMD
+প্ৰচেষ্টাত	N_ANN
+জড়িত	J_PJJ
+হ'ব	V_VM
+পাৰে	V_VAUX
+।	RD_PUNC
+
+
+এই	DM_DMD
+সন্দৰ্ভত	J_PJJ
+মই	PR_PRP
+ধাৰণা	V_VBT
+কৰো	V_VBT
+যে	CC_CCD
+'ভাৰ্চুৱেল	N_NNP
+ছাম্মিট'	N_NN
+কেৱল	CC_CCD
+ভাৰত-ডেনমাৰ্কৰ	N_NNP
+সম্পৰ্কৰ	N_ANN
+বাবেই	IN
+উপযোগী	J_PJJ
+হ'ব	V_VM
+তেনে	PR_PRP
+নহয়	RP_NEG
+,	RD_PUNC
+বৰং	RB
+বৈশ্বিক	N_NN
+প্ৰত্যাহ্বানৰ	N_ANN
+প্ৰতিও	RB
+এক	QT_QTC
+সঠিক	J_PJJ
+'এপ্ৰ'চ'	N_NN
+গঢ়ি	V_VM
+তোলাত	V_VM
+সহায়ক	J_PJJ
+হ'ব	V_VM
+।	RD_PUNC
+
+
+আকৌ	RB
+এবাৰ	RB
+Excellency	RD_RDF
+,	RD_PUNC
+আপোনাৰ	PR_PRP
+সময়ৰ	N_ANN
+বাবে	PSP
+বহুত	RB
+বহুত	RB
+ধন্যবাদ	N_NN
+।	RD_PUNC
+
+
+এতিয়া	RB
+মই	PR_PRP
+আপোনাক	PR_PRF
+নিজৰ	PR_PRP
+'অ'পেনিং	N_NN
+ৰিমাৰ্কছ'ৰ	N_NNP
+বাবে	PSP
+আমন্ত্ৰণ	N_ANN
+জনাব	V_VM
+বিচাৰিম	V_VM
+।	RD_PUNC
+
+
+*	RD_PUNC
+*	RD_PUNC
+*	RD_PUNC
+*	RD_PUNC
+*	RD_PUNC
+*	RD_PUNC
+VRRK	RD_RDF
+/	RD_PUNC
+SH	RD_RDF
+/	RD_PUNC
+BM	RD_RDF
+
+
+২৭.০৯.২০২০	QT_QTC
+তাৰিখে	N_ANN
+‘মন	N_NNP
+কী	V_VBT
+বাত	N_MNN
+২.০’ৰ	QT_QTC
+১৬তম	QT_QTC
+খণ্ডত	N_ANN
+প্ৰধানমন্ত্ৰীয়ে	N_NN
+প্ৰদান	V_VBT
+কৰা	V_VBT
+ভাষণৰ	N_ANN
+অসমীয়া	N_NNP
+লিখিত	J_VJJ
+ৰূপ	N_MNN
+
+
+মোৰ	PR_PRP
+মৰমৰ	J_PJJ
+দেশবাসীসকল	N_NN
+,	RD_PUNC
+নমস্কাৰ	N_ANN
+৷	RD_PUNC
+
+
+ক’ৰোনাৰ	N_NNP
+’	RD_PUNC
+এই	DM_DMD
+সময়ছোৱাত	N_ANN
+সমগ্ৰ	PR_PRP
+বিশ্বতে	N_MNN
+বহু	J_PJJ
+পৰিৱৰ্তন	N_ANN
+হৈছে	V_VAUX
+৷	RD_PUNC
+
+
+আজি	J_PJJ
+দুই	QT_QTC
+গজৰ	N_NN
+দুৰত্ব	N_NN
+অনিবাৰ্য	N_ANN
+হোৱাৰ	V_VBI
+সময়তে	IN
+পৰিয়ালৰ	N_ANN
+সদস্যসমূহক	N_NN
+ওচৰ	V_VBT
+চপাই	V_VBT
+অনাৰ	IN
+ঘটনাও	N_ANN
+সংঘটিত	J_VJJ
+হৈছে	V_VAUX
+৷	RD_PUNC
+
+
+কিন্তু	CC_CCD
+দীৰ্ঘসময়লৈ	N_NN
+একে	J_PJJ
+লগত	N_NST
+থকা	V_VM
+,	RD_PUNC
+সময়	N_ANN
+অতিবাহিত	V_VBT
+কৰা	V_VBT
+,	RD_PUNC
+প্ৰতিটো	RB
+পল	N_ANN
+সুখেৰে	N_ANN
+ভৰা	J_PJJ
+কিদৰে	IN
+কৰিব	V_VM
+পাৰে	V_VAUX
+?	RD_PUNC
+
+
+কিছুমান	J_PJJ
+পৰিয়ালত	N_ANN
+সমস্যাৰ	N_ANN
+সৃষ্টি	N_ANN
+হৈছে	V_VAUX
+আৰু	CC_CCD
+ইয়াৰ	PR_PRP
+কাৰণ	N_ANN
+হ’ল	V_VBT
+যে	CC_CCD
+আমাৰ	PR_PRP
+যি	PR_PRL
+পৰম্পৰা	N_ANN
+আছিল	V_VAUX
+,	RD_PUNC
+আজি	J_PJJ
+ইয়াৰ	PR_PRP
+অভাৱ	N_ANN
+অনুভূত	J_VJJ
+হৈছে	V_VAUX
+,	RD_PUNC
+এনে	J_PJJ
+লাগিছে	IN
+যেন	CC_CCD
+এনে	J_PJJ
+বহু	J_PJJ
+পৰিয়াল	N_ANN
+আছে	V_VAUX
+য’ত	IN
+এইসমূহ	DM_DMD
+নোহোৱা	RP_NEG
+হৈ	IN
+পৰিছে	V_VM
+আৰু	CC_CCD
+ফলস্বৰূপে	RB
+এই	DM_DMD
+সংকটৰ	N_ANN
+সময়ছোৱাতো	N_ANN
+পৰিয়ালৰ	N_ANN
+সৈতে	CC_CCD
+একে	J_PJJ
+লগতে	CC_CCD
+সময়	N_ANN
+কটোৱাটো	N_NN
+কঠিন	J_PJJ
+হৈ	IN
+পৰিছে	V_VM
+৷	RD_PUNC
+
+
+প্ৰতিটো	RB
+পৰিয়ালত	N_ANN
+কোনোবা	PR_PRQ
+নহয়	RP_NEG
+কোনোবাজন	PR_PRQ
+পৰিয়ালৰ	N_ANN
+বয়স্ক	N_NN
+ব্যক্তিজনে	N_NN
+কাহিনী	N_ANN
+শুনাইছিল	V_VM
+আৰু	CC_CCD
+ঘৰলৈ	N_MNN
+নতুন	J_PJJ
+প্ৰেৰণা	N_ANN
+আৰু	CC_CCD
+নতুন	J_PJJ
+শক্তিৰ	N_ANN
+সঞ্চাৰ	N_VNN
+কৰিছিল	V_VAUX
+৷	RD_PUNC
+
+
+আমাৰ	PR_PRP
+নিশ্চয়কৈ	RB
+অনুভৱ	N_ANN
+হ’ব	V_VAUX
+যে	CC_CCD
+আমাৰ	PR_PRP
+পূৰ্বপুৰুষসকলে	N_NN
+যি	PR_PRL
+বিধি	N_ANN
+প্ৰণয়ন	V_VBT
+কৰিছিল	V_VBT
+সেয়া	PR_PRP
+আজিও	RB
+কিমান	PR_PRP
+গুৰুত্বপূৰ্ণ	J_PJJ
+৷	RD_PUNC
+
+
+এনেকুৱাই	J_PJJ
+এক	QT_QTC
+বিধি	N_ANN
+যি	PR_PRL
+মই	PR_PRP
+ক’লো	N_NN
+’	RD_PUNC
+,	RD_PUNC
+সেয়া	PR_PRP
+হ’ল	V_VBT
+সাধু	N_NN
+শুনোৱাৰ	V_VM
+কলা	N_NN
+,	RD_PUNC
+ষ্ট’ৰী	N_NN
+’	RD_PUNC
+টেলিং	N_NN
+৷	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+সাধুৰ	N_NN
+ইতিহাস	N_ANN
+সিমানেই	RB
+পুৰণি	J_PJJ
+যিমানেই	RB
+পুৰণি	J_PJJ
+মানৱ	N_NN
+সভ্যতা	N_ANN
+৷	RD_PUNC
+
+
+‘য’তেই	N_NN
+’	RD_PUNC
+আত্মা	N_ANN
+আছে	V_VAUX
+তাতেই	PR_PRP
+সাধু	N_NN
+আছে’সাধুৱে	V_VAUX
+’	RD_PUNC
+মানুহৰ	N_NN
+ৰচনাত্মক	N_NN
+আৰু	CC_CCD
+সংবেদনশীল	J_PJJ
+স্বভাৱক	N_ANN
+উন্মোচিত	J_VJJ
+কৰে	V_VAUX
+৷	RD_PUNC
+
+
+সাধুৰ	N_NN
+শক্তি	N_ANN
+অনুভূত	J_VJJ
+কৰিবলৈ	V_VM
+হ’লে	V_VBT
+যেতিয়া	CC_CCS
+কোনো	J_PJJ
+মাকে	N_NN
+নিজৰ	PR_PRP
+সৰু	J_PJJ
+সন্তানক	N_NN
+শোৱাবলৈ	V_VM
+অথবা	CC_CCD
+তাক	PR_PRP
+খাদ্য	N_MNN
+খুৱাবলৈ	V_VBT
+সাধু	N_NN
+শুনায়	J_VJJ
+,	RD_PUNC
+সেয়া	PR_PRP
+প্ৰত্যক্ষ	V_VBI
+কৰক	V_VBI
+৷	RD_PUNC
+
+
+মই	PR_PRP
+নিজৰ	PR_PRP
+জীৱনত	N_ANN
+বহু	J_PJJ
+সময়লৈ	N_ANN
+পৰিব্ৰাজকৰ	N_NN
+দৰে	RB
+অতিবাহিত	V_VBT
+কৰিছো	V_VBT
+৷	RD_PUNC
+
+
+প্ৰতিদিনে	RB
+নতুন	J_PJJ
+গাঁও	N_MNN
+,	RD_PUNC
+নতুন	J_PJJ
+লোক	N_NN
+,	RD_PUNC
+নতুন	J_PJJ
+পৰিয়াল.	N_NN
+.	RD_PUNC
+.	RD_PUNC
+কিন্তু	CC_CCD
+যেতিয়া	CC_CCS
+মই	PR_PRP
+পৰিয়ালবোৰৰ	N_NN
+ওচৰলৈ	N_NST
+গৈছিলো	V_VM
+তেতিয়া	CC_CCD
+মই	PR_PRP
+শিশুসকলৰ	N_NN
+সৈতে	CC_CCD
+কথা	V_VBT
+পাতিছিলো	V_VBT
+	
+আৰু	CC_CCD
+কেতিয়াবা	RB
+কেতিয়াবা	RB
+শিশুসকলক	N_NN
+কৈছিলো	CC_CCD
+যে	CC_CCD
+মোক	PR_PRP
+সাধু	N_NN
+শুনোৱা	V_VM
+৷	RD_PUNC
+
+
+মই	PR_PRP
+আচৰিত	J_PJJ
+হৈ	IN
+গৈছিল	V_VM
+যেতিয়া	CC_CCS
+শিশুসকলে	N_NN
+মোক	PR_PRP
+কৈছিল	CC_CCD
+,	RD_PUNC
+নহয়	RP_NEG
+খুড়া	N_NN
+নহয়	RP_NEG
+,	RD_PUNC
+সাধু	N_NN
+নহয়	RP_NEG
+,	RD_PUNC
+আমি	PR_PRP
+কৌতুক	N_ANN
+শুনাম	N_NN
+,	RD_PUNC
+আৰু	CC_CCD
+মোকো	PR_PRP
+তেওঁলোকে	PR_PRP
+এয়াই	PR_PRP
+কৈছিল	CC_CCD
+যে	CC_CCD
+খুড়া	N_NN
+আপুনিও	PR_PRP
+আমাক	PR_PRP
+কৌতুক	N_ANN
+শুনাওক	N_NN
+৷	RD_PUNC
+
+
+অৰ্থাৎ	CC_CCD
+তেওঁলোক	PR_PRP
+সাধুৰ	N_NN
+সৈতে	CC_CCD
+পৰিচিত	J_PJJ
+নাছিল	RP_NEG
+৷	RD_PUNC
+
+
+অধিকাংশৰ	N_ANN
+জীৱন	N_ANN
+কৌতুকতেই	N_ANN
+সীমাৱদ্ধ	J_PJJ
+হৈ	IN
+ৰৈছিল	V_VM
+৷	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+ভাৰতত	N_NNP
+সাধু	N_NN
+কোৱাৰ	N_NN
+এক	QT_QTC
+সমৃদ্ধ	J_PJJ
+পৰম্পৰা	N_ANN
+আছে	V_VAUX
+৷	RD_PUNC
+
+
+আমি	PR_PRP
+গৌৰৱান্বিত	N_ANN
+যে	CC_CCD
+আমি	PR_PRP
+সেই	PR_PRP
+দেশৰ	N_NN
+অধিবাসী	N_NN
+য’ত	IN
+হিতোপদেশ	N_ANN
+আৰু	CC_CCD
+পঞ্চতন্ত্ৰৰ	N_ANN
+পৰম্পৰা	N_ANN
+আছে	V_VAUX
+,	RD_PUNC
+য’ত	IN
+কাহিনীত	N_ANN
+পশু-পক্ষী	N_NN
+আৰু	CC_CCD
+পৰীৰ	N_NN
+কাল্পনিক	J_PJJ
+বিশ্ব	N_MNN
+আছে	V_VAUX
+যাতে	CC_CCD
+বিবেক	N_ANN
+আৰু	CC_CCD
+বুদ্ধিমত্তাৰ	N_ANN
+কথাসমূহ	N_NN
+সহজে	RB
+বুজি	V_VBI
+পাব	V_VBI
+পাৰি	V_VAUX
+৷	RD_PUNC
+
+
+আমাৰ	PR_PRP
+ইয়াত	PR_PRP
+সাধু	N_NN
+কোৱাৰ	N_NN
+পৰম্পৰা	N_ANN
+আছে	V_VAUX
+৷	RD_PUNC
+
+
+ইয়াত	PR_PRP
+ধৰ্মমূলক	N_NN
+কাহিনী	N_ANN
+কোৱাৰ	N_NN
+পৰম্পৰা	N_ANN
+আছে	V_VAUX
+৷	RD_PUNC
+
+
+ইয়াৰে	PR_PRP
+ভিতৰত	N_NST
+‘কতাকালক্ষেৱম’	N_NN
+’	RD_PUNC
+অন্যতম	J_PJJ
+৷	RD_PUNC
+
+
+আমাৰ	PR_PRP
+ইয়াত	PR_PRP
+বিভিন্ন	J_PJJ
+লোককথা	N_ANN
+প্ৰচলিত	J_PJJ
+৷	RD_PUNC
+
+
+তামিলনাডু	N_NNP
+আৰু	CC_CCD
+কেৰালাত	N_NNP
+সাধু	N_NN
+কোৱাৰ	N_NN
+এক	QT_QTC
+আমোদজনক	J_PJJ
+পদ্ধতি	N_ANN
+আছে	V_VAUX
+৷	RD_PUNC
+
+
+ইয়াক	PR_PRP
+‘বিল্লু	N_NNP
+পাট’	N_NNP
+’	RD_PUNC
+বুলি	CC_CCD
+কোৱা	V_VM
+হয়	V_VAUX
+৷	RD_PUNC
+
+
+ইয়াত	PR_PRP
+কাহিনী	N_ANN
+আৰু	CC_CCD
+সংগীতৰ	N_ANN
+আকৰ্ষক	J_PJJ
+সামঞ্জস্যতা	N_NN
+আছে	V_VAUX
+৷	RD_PUNC
+
+
+ভাৰতত	N_NNP
+কাঠ-পুতলাৰ	N_NN
+জীৱন্ত	J_PJJ
+পৰম্পৰা	N_ANN
+আছে	V_VAUX
+৷	RD_PUNC
+
+
+আজিকালি	RB
+বিজ্ঞান	N_ANN
+আৰু	CC_CCD
+কল্পবিজ্ঞানৰ	N_ANN
+সৈতে	CC_CCD
+জড়িত	J_PJJ
+কাহিনী	N_ANN
+আৰু	CC_CCD
+কাহিনী	N_ANN
+কোৱাৰ	N_NN
+ৰীতি	N_ANN
+লোকপ্ৰিয়	J_PJJ
+হ’বলৈ	V_VM
+ধৰিছে	V_VM
+৷	RD_PUNC
+
+
+মই	PR_PRP
+দেখিবলৈ	V_VM
+পাইছো	V_VAUX
+যে	CC_CCD
+বহু	J_PJJ
+লোকে	N_NN
+সাধু	N_NN
+কোৱাৰ	N_NN
+কলাক	N_NN
+আগুৱাই	V_VBI
+লৈ	CC_CCD
+যোৱাৰ	N_ANN
+বাবে	PSP
+প্ৰশংসনীয়	J_PJJ
+পদ্ধতি	N_ANN
+পালন	V_VBT
+কৰিছে	V_VBT
+৷	RD_PUNC
+
+
+মই	PR_PRP
+gaathastory.	RD_RDF
+
+
+inৰ	N_NN
+ৰ	RB
+দৰে	RB
+ৱেবছাইটৰ	N_ANN
+বিষয়ে	IN
+জানিবলৈ	N_NN
+পালো	V_VM
+যাক	PR_PRP
+অমৰ	N_ANN
+ব্যাসে	N_ANN
+অন্য	PR_PRP
+লোকৰ	J_PJJ
+সৈতে	CC_CCD
+চলাই	J_VJJ
+আছে	V_VAUX
+৷	RD_PUNC
+
+
+অমৰ	N_ANN
+ব্যাস	N_ANN
+,	RD_PUNC
+আইআইএম	N_NNP
+,	RD_PUNC
+আহমেদাবাদৰ	N_NNP
+পৰা	PSP
+এমবিএ	N_NN
+কৰাৰ	N_ANN
+পিছত	N_NST
+বিদেশলৈ	N_ANN
+গুচি	N_NN
+গৈছিল	V_VM
+আৰু	CC_CCD
+পুনৰ	RB
+ঘূৰি	V_VBI
+আহিছিল	V_VBI
+৷	RD_PUNC
+
+
+এতিয়া	RB
+তেওঁ	PR_PRP
+বেংগালুৰুত	N_NNP
+থাকে	V_VAUX
+আৰু	CC_CCD
+সময়	N_ANN
+উলিয়াই	V_VBT
+সাধুৰ	N_NN
+সৈতে	CC_CCD
+জড়িত	J_PJJ
+এই	DM_DMD
+প্ৰকাৰৰ	N_NN
+আকৰ্ষণীয়	J_PJJ
+কাম	V_VBI
+কৰে	V_VBI
+৷	RD_PUNC
+
+
+বহু	J_PJJ
+এনে	J_PJJ
+প্ৰয়াসো	N_ANN
+আছে	V_VAUX
+যি	PR_PRL
+গ্ৰামীণ	J_PJJ
+ভাৰতৰ	N_NNP
+কাহিনীসমূহৰ	N_NN
+প্ৰচলন	N_ANN
+কৰিছে	V_VM
+৷	RD_PUNC
+
+
+বৈশালী	N_NNP
+ব্যৱহাৰে	N_ANN
+দেশপাণ্ডেৰ	N_NNP
+দৰে	RB
+লোকে	N_NN
+ইয়াক	PR_PRP
+মাৰাঠীত	J_PJJ
+জনপ্ৰিয়	J_PJJ
+কৰি	V_VM
+তোলাৰ	N_ANN
+দিশত	N_ANN
+অগ্ৰসৰ	N_ANN
+হৈছে	V_VAUX
+৷	RD_PUNC
+
+
+চেন্নাইৰ	N_NNP
+শ্ৰীবিদ্যা	N_NNP
+বীৰ	N_NNP
+ৰাঘৱনো	N_NNP
+আমাৰ	PR_PRP
+সংস্কৃতিৰ	N_ANN
+সৈতে	CC_CCD
+জড়িত	J_PJJ
+কাহিনীসমূহক	N_NN
+প্ৰচাৰিত	N_NN
+,	RD_PUNC
+প্ৰসাৰিত	J_VJJ
+কৰাৰ	N_ANN
+দিশত	N_ANN
+অগ্ৰসৰ	N_ANN
+গৈছে	V_VM
+আৰু	CC_CCD
+তেওঁ	PR_PRP
+কথালয়	N_NN
+তথা	IN
+The	RD_RDF
+Indian	RD_RDF
+story	RD_RDF
+telling	RD_RDF
+network	RD_RDF
+নামৰ	RP_NEG
+দুটা	J_PJJ
+ৱেবছাইটৰ	N_ANN
+জৰিয়তে	CC_CCD
+সুন্দৰ	J_PJJ
+কাম	V_VBI
+কৰি	V_VBI
+আছে	V_VAUX
+৷	RD_PUNC
+
+
+গীতা	N_NNP
+ৰামানুজনে	N_NNP
+kathalaya.	RD_RDF
+
+
+org	RD_RDF
+ত	IN
+কাহিনীসমূহ	N_NN
+একত্ৰিত	V_VBT
+কৰিছে	V_VBT
+আৰু	CC_CCD
+The	RD_RDF
+Indian	RD_RDF
+story	RD_RDF
+telling	RD_RDF
+network	RD_RDF
+জৰিয়তে	CC_CCD
+বিভিন্ন	J_PJJ
+চহৰত	N_MNN
+ষ্ট’ৰী	N_NN
+’	RD_PUNC
+টেলাৰৰ	N_NN
+নেটৱৰ্ক	N_ANN
+প্ৰস্তুত	V_VBT
+কৰিছে	V_VBT
+৷	RD_PUNC
+
+
+বেংগালুৰু	N_NNP
+নিবাসী	N_NN
+বিক্ৰম	N_NNP
+শ্ৰীধৰে	N_NNP
+বাপুৰ	N_NNP
+সৈতে	CC_CCD
+জড়িত	J_PJJ
+কাহিনীসমূহক	N_NN
+লৈ	CC_CCD
+অতি	RB
+উৎসাহিত	J_VJJ
+৷	RD_PUNC
+
+
+আৰু	CC_CCD
+বহুলোকে	J_PJJ
+এই	DM_DMD
+ক্ষেত্ৰত	N_NST
+কাম	V_VBI
+কৰি	V_VBI
+আছে	V_VAUX
+-	RD_PUNC
+আপোনালোকে	PR_PRP
+তেওঁলোকৰ	J_PJJ
+বিষয়ে	IN
+ছ’চিয়েল	N_NN
+’	RD_PUNC
+মিডিয়াত	N_NN
+নিশ্চয়কৈ	RB
+প্ৰচাৰ	V_VBT
+কৰক	V_VBT
+৷	RD_PUNC
+
+
+আজি	J_PJJ
+আমাৰ	PR_PRP
+সৈতে	CC_CCD
+বেংগালুৰু	N_NNP
+Story	RD_RDF
+telling	RD_RDF
+society	RD_RDF
+ভগ্নী	N_NN
+অপৰ্ণা	N_NNP
+আথ্ৰেয়	N_NNP
+আৰু	CC_CCD
+অন্য	PR_PRP
+সদস্যসমূহ	N_NN
+আছে	V_VAUX
+৷	RD_PUNC
+
+
+আহক	V_VM
+,	RD_PUNC
+তেওঁলোকৰ	J_PJJ
+সৈতে	CC_CCD
+কথা	V_VBT
+পাতি	V_VBT
+তেওঁলোকৰ	J_PJJ
+অনুভৱ	N_ANN
+জানিবলৈ	N_NN
+প্ৰয়াস	V_VBT
+কৰো	V_VBT
+৷	RD_PUNC
+
+
+প্ৰধানমন্ত্ৰীঃ	N_NN
+
+
+হেল্ল’	RD_PUNC
+অপৰ্ণা	N_NNP
+’	RD_PUNC
+
+
+নমস্কাৰ	N_ANN
+আদৰণীয়	J_PJJ
+প্ৰধানমন্ত্ৰী	N_NN
+মহোদয়	N_NN
+,	RD_PUNC
+আপোনাৰ	PR_PRP
+ভালনে	J_PJJ
+?	RD_PUNC
+
+
+প্ৰধানমন্ত্ৰীঃ	N_NN
+
+
+মোৰ	PR_PRP
+ভাল	J_PJJ
+৷	RD_PUNC
+
+
+আপোনাৰ	PR_PRP
+ভাল	J_PJJ
+নে	V_VBT
+?	RD_PUNC
+
+
+অপৰ্ণাঃ	N_NNP
+
+
+খুব	RB
+ভাল	J_PJJ
+মহোদয়	N_NN
+৷	RD_PUNC
+
+
+পোন	J_PJJ
+প্ৰথমে	RB
+মই	PR_PRP
+আপোনাক	PR_PRF
+Bangalore	RD_RDF
+Story	RD_RDF
+Telling	RD_RDF
+তৰফৰ	N_ANN
+পৰা	PSP
+ধন্যবাদ	N_NN
+জ্ঞাপন	V_VBT
+কৰিব	V_VBT
+বিচাৰিছো	V_VM
+কিয়নো	RB
+আপুনি	PR_PRP
+আমাৰ	PR_PRP
+দৰে	RB
+শিল্পীসকলক	N_NN
+এই	DM_DMD
+মঞ্চলৈ	N_ANN
+মাতিছে	V_VM
+আৰু	CC_CCD
+কথা	V_VBT
+পাতিছে	V_VBT
+৷	RD_PUNC
+
+
+প্ৰধানমন্ত্ৰীঃ	N_NN
+
+
+আৰু	CC_CCD
+মই	PR_PRP
+শুনিবলৈ	V_VM
+পাইছো	V_VAUX
+যে	CC_CCD
+আজি	J_PJJ
+গোটেই	J_PJJ
+দলটো	N_ANN
+আপোনাৰ	PR_PRP
+সৈতে	CC_CCD
+বহি	V_VBT
+আছে	V_VAUX
+৷	RD_PUNC
+
+
+অপৰ্ণাঃ	N_NNP
+হয়.	V_VAUX
+.	RD_PUNC
+.	RD_PUNC
+মহোদয়	N_NN
+৷	RD_PUNC
+
+
+প্ৰধানমন্ত্ৰীঃ	N_NN
+
+
+তেন্তে	CC_CCD
+আপুনি	PR_PRP
+দলটোৰ	N_ANN
+সদস্যসকলৰ	N_NN
+সৈতে	CC_CCD
+পৰিচয়	N_ANN
+কৰাই	N_MNN
+দিলে	V_VM
+ভাল	J_PJJ
+হ’ব	V_VAUX
+৷	RD_PUNC
+
+
+যাতে	CC_CCD
+‘মন	N_NNP
+কী	N_NNP
+বাত’ৰ	N_NNP
+’	RD_PUNC
+যিসকল	PR_PRL
+শ্ৰোতা	N_NN
+আছে	V_VAUX
+তেওঁলোকেও	PR_PRP
+আপোনালোকৰ	PR_PRP
+অভিযানটোৰ	N_ANN
+বিষয়ে	IN
+জানিবলৈ	N_NN
+পাৰিব	V_VAUX
+৷	RD_PUNC
+
+
+অপৰ্ণাঃ	N_NNP
+
+
+মহোদয়	N_NN
+৷	RD_PUNC
+
+
+মই	PR_PRP
+অপৰ্ণা	N_NNP
+আথ্ৰেয়	N_NNP
+,	RD_PUNC
+মই	PR_PRP
+দুটা	J_PJJ
+সন্তানৰ	N_NN
+মাক	N_NN
+,	RD_PUNC
+এজন	IN
+ভাৰতীয়	J_PJJ
+বায়ু	N_ANN
+সেনা	N_NN
+বিষয়াৰ	N_NN
+পত্নী	N_NN
+আৰু	CC_CCD
+এগৰাকী	N_NN
+উৎসাহী	J_PJJ
+ষ্ট’ৰীটেলাৰ	N_NN
+’	RD_PUNC
+৷	RD_PUNC
+
+
+সাধু	N_NN
+কোৱাৰ	N_NN
+আৰম্ভণি	N_ANN
+১৫	QT_QTC
+বছৰ	N_ANN
+পূৰ্বে	PR_PRF
+হৈছিল	V_VAUX
+যেতিয়া	CC_CCS
+মই	PR_PRP
+এটা	IN
+ছফটৱেৰ	N_NN
+উদ্যোগত	N_ANN
+কাম	V_VBI
+কৰিছিলো	V_VBI
+৷	RD_PUNC
+
+
+তেতিয়া	CC_CCD
+মই	PR_PRP
+এটা	IN
+চিএছআৰ	N_NN
+প্ৰকল্পত	N_ANN
+স্বেচ্ছামূলকভাৱে	RB
+কাম	V_VBI
+কৰিবলৈ	V_VBI
+গৈছিলো	V_VM
+আৰু	CC_CCD
+তেতিয়াই	RB
+সহস্ৰাধিক	N_NN
+শিশুক	N_NN
+কাহিনীৰ	N_ANN
+মাধ্যমেৰে	N_MNN
+শিক্ষা	N_ANN
+প্ৰদানৰ	N_ANN
+সুযোগ	N_ANN
+পাইছিল	N_MNN
+৷	RD_PUNC
+
+
+আৰু	CC_CCD
+মই	PR_PRP
+নিজৰ	PR_PRP
+আইতাৰ	N_NN
+পৰা	PSP
+শুনা	J_VJJ
+সাধুবোৰ	N_NN
+তেওঁলোকক	PR_PRP
+শুনাইছিলো	V_VM
+৷	RD_PUNC
+
+
+কিন্তু	CC_CCD
+সাধু	N_NN
+শুনোৱাৰ	V_VM
+সময়ত	N_NST
+তেওঁলোকৰ	J_PJJ
+মুখত	N_NNP
+যি	PR_PRL
+সুখৰ	N_ANN
+আভাস	V_VBT
+দেখা	V_VBT
+পাইছিলো	N_MNN
+,	RD_PUNC
+মই	PR_PRP
+আপোনাক	PR_PRF
+কি	PR_PRQ
+ক’ম	PR_PRQ
+,	RD_PUNC
+ইমানেই	RB
+সন্তোষ	N_ANN
+পাইছিলো	N_MNN
+যে	CC_CCD
+সাধু	N_NN
+কোৱাই	N_NN
+মোৰ	N_NNP
+জীৱনৰ	N_NNP
+লক্ষ্য	N_ANN
+হিচাপে	N_ANN
+গঢ়ি	V_VM
+তুলিছিলো	N_MNN
+৷	RD_PUNC
+
+
+প্ৰধানমন্ত্ৰীঃ	N_NN
+
+
+আপোনাৰ	PR_PRP
+দলত	N_ANN
+আৰু	CC_CCD
+কোন	PR_PRQ
+কোন	PR_PRP
+আছে	V_VAUX
+?	RD_PUNC
+
+
+অপৰ্ণাঃ	N_NNP
+
+
+মোৰ	PR_PRP
+সৈতে	CC_CCD
+আছে	V_VAUX
+শৈলজা	N_NNP
+সম্পত	N_NN
+৷	RD_PUNC
+
+
+শৈলজা	N_NNP
+
+
+নমস্কাৰ	N_ANN
+মহোদয়	N_NN
+৷	RD_PUNC
+
+
+প্ৰধানমন্ত্ৰীঃ	N_NN
+
+
+নমস্কাৰ	N_ANN
+৷	RD_PUNC
+
+
+শৈলজা	N_NNP
+
+
+মই	PR_PRP
+শৈলজা	N_NNP
+সম্পতে	N_NNP
+কৈ	CC_CCD
+আছো	V_VM
+৷	RD_PUNC
+
+
+মই	PR_PRP
+প্ৰথমে	RB
+শিক্ষকতা	N_ANN
+কৰিছিলো	V_VM
+আৰু	CC_CCD
+তাৰ	PR_PRP
+পিছত	N_NST
+যেতিয়া	CC_CCS
+মোৰ	PR_PRP
+সন্তানৰ	N_NN
+জন্ম	N_ANN
+হ’ল	V_VBT
+তেতিয়া	CC_CCD
+মই	PR_PRP
+থিয়েটাৰত	N_ANN
+কাম	N_ANN
+আৰম্ভ	V_VBT
+কৰিলো	V_VBT
+আৰু	CC_CCD
+শেষত	RB
+সাধু	N_NN
+শুনোৱাত	N_NNP
+মন	V_VBI
+দিলো	V_VBI
+৷	RD_PUNC
+
+
+প্ৰধানমন্ত্ৰীঃ	N_NN
+
+
+ধন্যবাদ	N_NN
+৷	RD_PUNC
+
+
+শৈলজাঃ	N_NNP
+
+
+মোৰ	PR_PRP
+সৈতে	CC_CCD
+সৌম্যা	N_NNP
+আছে	V_VAUX
+৷	RD_PUNC
+
+
+সৌম্যাঃ	N_NNP
+
+
+নমস্কাৰ	N_ANN
+মহোদয়	N_NN
+৷	RD_PUNC
+
+
+প্ৰধানমন্ত্ৰীঃ	N_NN
+
+
+নমস্কাৰ	N_ANN
+৷	RD_PUNC
+
+
+সৌম্যাঃ	N_NNP
+
+
+মই	PR_PRP
+সৌম্যা	N_NNP
+শ্ৰীনিবাসন	N_NNP
+৷	RD_PUNC
+
+
+মই	PR_PRP
+এজন	IN
+মনোবিদ	N_NN
+৷	RD_PUNC
+
+
+মই	PR_PRP
+যেতিয়া	CC_CCS
+কাম	V_VBI
+কৰো	V_VBI
+তেতিয়া	CC_CCD
+শিশু	N_NN
+আৰু	CC_CCD
+ডাঙৰ	J_PJJ
+লোকৰ	J_PJJ
+সৈতে	CC_CCD
+কাহিনীৰ	N_ANN
+দ্বাৰা	PSP
+মনুষ্যৰ	N_NN
+নবৰসক	N_NN
+জাগ্ৰত	J_PJJ
+কৰিবলৈ	V_VM
+প্ৰয়াস	V_VBT
+কৰো	V_VBT
+আৰু	CC_CCD
+তেওঁলোকৰ	J_PJJ
+সৈতে	CC_CCD
+চৰ্চাও	N_VNN
+কৰো	V_VBT
+৷	RD_PUNC
+
+
+মোৰ	PR_PRP
+লক্ষ্য	N_ANN
+হ’ল	V_VBT
+‘Healing	RD_RDF
+Healing	RD_RDF
+and	RD_RDF
+transformative	RD_RDF
+storytelling’	RD_RDF
+
+অপৰ্ণাঃ	N_NNP
+অপৰ্ণাঃ	N_NNP
+
+
+নমস্কাৰ	N_ANN
+মহোদয়	N_NN
+৷	RD_PUNC
+
+
+প্ৰধানমন্ত্ৰীঃ	N_NN
+
+
+নমস্কাৰ	N_ANN
+৷	RD_PUNC
+
+
+অপৰ্ণাঃ	N_NNP
+
+
+মোৰ	PR_PRP
+নাম	N_ANN
+অপৰ্ণা	N_NNP
+জয়শংকৰ	N_NNP
+৷	RD_PUNC
+
+
+মোৰ	PR_PRP
+সৌভাগ্য	N_ANN
+যে	CC_CCD
+মই	PR_PRP
+নিজৰ	PR_PRP
+ককা-আইতাৰ	N_NN
+সৈতে	CC_CCD
+এই	DM_DMD
+দেশৰ	N_NN
+বিভিন্ন	J_PJJ
+স্থানত	N_MNN
+ডাঙৰ-দীঘল	N_NN
+হৈছে	V_VAUX
+আৰু	CC_CCD
+সেইবাবে	RB
+ৰামায়ণ	N_NNP
+,	RD_PUNC
+পুৰণা	J_PJJ
+আৰু	CC_CCD
+গীতাৰ	N_NNP
+বহু	J_PJJ
+কাহিনী	N_ANN
+মই	PR_PRP
+শুনিছো	N_NN
+আৰু	CC_CCD
+Bangalore	RD_RDF
+Storytelling	RD_RDF
+Society	RD_RDF
+আছে	V_VAUX
+যেতিয়া	CC_CCS
+মই	PR_PRP
+ষ্ট’ৰীটেলাৰ	N_NN
+’	RD_PUNC
+হ’বলগীয়া	V_VM
+আছিলেই	V_VM
+৷	RD_PUNC
+
+
+মোৰ	PR_PRP
+সৈতে	CC_CCD
+আছে	V_VAUX
+লাৱণ্য	N_NNP
+প্ৰসাদ	N_NNP
+৷	RD_PUNC
+
+
+প্ৰধানমন্ত্ৰীঃ	N_NN
+
+
+লাৱণ্য	N_NNP
+মহোদয়া	N_NN
+,	RD_PUNC
+নমস্কাৰ	N_ANN
+৷	RD_PUNC
+
+
+লাৱণ্যঃ	N_NNP
+
+
+নমস্কাৰ	N_ANN
+মহোদয়	N_NN
+৷	RD_PUNC
+
+
+মই	PR_PRP
+এজন	IN
+বিদ্যুৎ	N_ANN
+অভিযন্তা	N_NN
+৷	RD_PUNC
+
+
+আৰু	CC_CCD
+এতিয়া	RB
+পেছাদাৰী	N_NN
+ষ্ট’ৰীটেলাৰ	N_NN
+’	RD_PUNC
+৷	RD_PUNC
+
+
+মই	PR_PRP
+মোৰ	PR_PRP
+ককাৰ	V_VBT
+পৰা	PSP
+বিভিন্ন	J_PJJ
+কাহিনী	N_ANN
+শুনি	N_NN
+ডাঙৰ	J_PJJ
+দীঘল	J_PJJ
+হৈছো	V_VAUX
+৷	RD_PUNC
+
+
+মই	PR_PRP
+জ্যেষ্ঠ	J_PJJ
+নাগৰিকসকলৰ	N_NN
+সৈতে	CC_CCD
+কম	V_VBT
+কৰিছো	V_VBT
+৷	RD_PUNC
+
+
+‘ৰুটছ’	N_NN
+’	RD_PUNC
+শীৰ্ষক	N_ANN
+এক	QT_QTC
+বিশেষ	J_PJJ
+প্ৰকল্পত	N_ANN
+মই	PR_PRP
+তেওঁলোকৰ	J_PJJ
+পৰিয়ালৰ	N_ANN
+জীৱন	N_ANN
+কাহিনীৰ	N_ANN
+ওপৰত	N_NST
+তথ্য	N_ANN
+চিত্ৰও	N_MNN
+নিৰ্মাণ	V_VBT
+কৰিছো	V_VBT
+৷	RD_PUNC
+
+
+প্ৰধানমন্ত্ৰীঃ	N_NN
+
+
+লাৱণ্য	N_NNP
+মহোদয়	N_NN
+,	RD_PUNC
+আপোনাক	PR_PRF
+অশেষ	J_PJJ
+অভিনন্দন	N_ANN
+৷	RD_PUNC
+
+
+আৰু	CC_CCD
+যিদৰে	CC_CCD
+আপুনি	PR_PRP
+ক’লে	N_NN
+’	RD_PUNC
+,	RD_PUNC
+মইও	PR_PRP
+এবাৰ	RB
+মন	N_NNP
+কী	N_NNP
+বাত’ত	N_NNP
+’	RD_PUNC
+সকলোকে	PR_PRP
+কৈছিলো	CC_CCD
+যে	CC_CCD
+পৰিয়ালত	N_ANN
+নিজৰ	PR_PRP
+ককা-আইতাৰ	N_NN
+পৰা	PSP
+তেওঁলোকৰ	J_PJJ
+শৈশৱৰ	J_PJJ
+কাহিনী	N_ANN
+সোধক	V_VBT
+,	RD_PUNC
+সেইসমূহ	DM_DMD
+টেপ	V_VBT
+কৰক	V_VAUX
+আৰু	CC_CCD
+এয়া	PR_PRP
+পিছলৈ	RB
+বহু	J_PJJ
+কামত	N_ANN
+আহিব	V_VM
+৷	RD_PUNC
+
+
+কিন্তু	CC_CCD
+মোৰ	PR_PRP
+ভাল	J_PJJ
+লাগিছে	IN
+যে	CC_CCD
+আপোনালোক	PR_PRP
+যিসকলে	PR_PRL
+পৰিচয়	N_ANN
+দিলে	V_VM
+তাতো	PR_PRP
+আপোনালোকৰ	PR_PRP
+কলা	N_NN
+,	RD_PUNC
+আপোনালোকৰ	PR_PRP
+যোগাযোগ	N_ANN
+দক্ষতা	N_ANN
+অতিশয়	J_PJJ
+কম	J_PJJ
+শব্দতেই	N_ANN
+সুন্দৰৰূপত	N_NN
+প্ৰকাশ	V_VBT
+কৰিলে	V_VBT
+৷	RD_PUNC
+
+
+সেইবাবেও	RB
+মই	PR_PRP
+আপোনালোকক	PR_PRP
+অভিনন্দন	V_VBT
+জনাইছো	V_VBT
+৷	RD_PUNC
+
+

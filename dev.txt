@@ -1,0 +1,2052 @@
+
+
+আজি	J_PJJ
+,	RD_PUNC
+তেওঁৰ	PR_PRP
+জন্মজয়ন্তীত	N_NN
+ভাৰতৰ	N_NNP
+আন	PR_PRP
+এক	QT_QTC
+গৌৰৱী	N_ANN
+সন্তানক	N_NN
+আমাৰ	PR_PRP
+মনত	N_ANN
+আছে	V_VAUX
+।	RD_PUNC
+
+
+তেওঁ	PR_PRP
+হৈছে	V_VAUX
+আমাৰ	PR_PRP
+পূৰ্বৰ	J_PJJ
+প্ৰধানমন্ত্ৰী	N_NN
+শ্ৰী	N_ANN
+লাল	N_NNP
+বাহাদুৰ	N_NNP
+শাস্ত্ৰীজী	N_NNP
+।	RD_PUNC
+
+
+আমি	PR_PRP
+তেওঁৰ	PR_PRP
+নম্ৰতা	N_ANN
+,	RD_PUNC
+সৰলতা	N_ANN
+আৰু	CC_CCD
+মহান	J_PJJ
+নেতৃত্বৰ	N_ANN
+কথা	N_ANN
+মনত	V_VBT
+ৰাখিছো	V_VBT
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+মই	PR_PRP
+আপোনাক	PR_PRF
+আপোনালোকৰ	PR_PRP
+আলোচনাৰ	N_ANN
+বাবে	PSP
+শুভেচ্ছা	N_ANN
+জনাইছো	V_VAUX
+আৰু	CC_CCD
+আপোনালোকক	PR_PRP
+আশ্বাস	V_VBT
+দিছো	V_VBT
+যে	CC_CCD
+আমি	PR_PRP
+বৈভৱ	N_ANN
+,	RD_PUNC
+আৰু	CC_CCD
+ইয়াৰ	PR_PRP
+ফলাফলক	N_ANN
+এক	QT_QTC
+বৃহৎ	J_PJJ
+সফলতা	N_ANN
+হিচাপে	N_ANN
+মনত	N_ANN
+ৰাকিব	N_NN
+পাৰিম	V_VM
+।	RD_PUNC
+
+
+শেষ	V_VBT
+কৰাৰ	V_VBT
+আগতে	N_NST
+,	RD_PUNC
+মই	PR_PRP
+আপোনাক	PR_PRF
+আপোনাৰ	PR_PRP
+স্বাস্থ্যৰ	N_ANN
+সম্পূৰ্ণ	J_PJJ
+যত্ন	N_ANN
+ল'বলৈ	N_NN
+,	RD_PUNC
+সকলো	PR_PRP
+সাৱধানতা	N_ANN
+অৱলম্বন	V_VBT
+কৰিবলৈ	V_VBT
+,	RD_PUNC
+আৰু	CC_CCD
+সুৰক্ষিত	J_PJJ
+থাকিবলৈ	V_VM
+পৰামৰ্শ	V_VBT
+দিওঁ	V_VBT
+।	RD_PUNC
+
+
+ধন্যবাদ	N_NN
+,	RD_PUNC
+সকলোকে	PR_PRP
+অশেষ	J_PJJ
+ধন্যবাদ	N_NN
+।	RD_PUNC
+
+
+*	RD_PUNC
+*	RD_PUNC
+*	RD_PUNC
+*	RD_PUNC
+*	RD_PUNC
+*	RD_PUNC
+*	RD_PUNC
+*	RD_PUNC
+VRRK	RD_RDF
+/	RD_PUNC
+VJ	RD_RDF
+/	RD_PUNC
+RD	RD_RDF
+
+
+উত্তৰাখণ্ডত	N_NNP
+নমামী	N_NN
+গংগেৰ	N_NNP
+অধীনত	J_PJJ
+ছটা	QT_QTC
+বৃহৎ	J_PJJ
+প্ৰকল্পৰ	N_ANN
+উদ্বোধন	V_VBT
+কৰি	V_VBT
+দিয়া	V_VM
+প্ৰধানমন্ত্ৰীৰ	N_NN
+ভাষণৰ	N_ANN
+পা	V_VBT
+
+
+উত্তৰাখণ্ডৰ	N_NNP
+ৰাজ্যপাল	N_NN
+শ্ৰীমতী	N_ANN
+বেবী	N_NNP
+ৰাণী	N_NNP
+মৌৰ্যজী	N_NNP
+,	RD_PUNC
+মুখ্যমন্ত্ৰী	N_NN
+শ্ৰীমান	N_ANN
+ত্ৰিবেন্দ্ৰ	N_NNP
+সিংহ	N_NNP
+ৰাৱতজী	N_NNP
+,	RD_PUNC
+কেন্দ্ৰীয়	J_PJJ
+মন্ত্ৰীমণ্ডলীত	N_NN
+মোৰ	PR_PRP
+সহযোগী	N_NN
+শ্ৰী	N_ANN
+গজেন্দ্ৰ	N_NNP
+সিংহ	N_NNP
+শেখাৱতজী	N_NNP
+,	RD_PUNC
+ড৹	N_NN
+ৰমেশ	N_NNP
+পোখৰিয়াল	N_NNP
+'নিশংক'জী	N_NNP
+,	RD_PUNC
+শ্ৰী	N_ANN
+ৰতনলাল	N_NNP
+কটাৰিয়াজী	N_NNP,	RD_PUNC
+অন্য	PR_PRP
+অধিকাৰীসকল	N_NN
+আৰু	CC_CCD
+উত্তৰাখণ্ডৰ	N_NNP
+মোৰ	PR_PRP
+ভাই-ভনীসকল	N_NN
+,	RD_PUNC
+চাৰি	QT_QTC
+ধামৰ	N_MNN
+পৱিত্ৰতাক	N_ANN
+নিজৰ	PR_PRP
+মাজত	N_NST
+বিলীন	J_VJJ
+কৰি	V_VM
+ৰখা	V_VBT
+দেৱভূমি	N_ANN
+উত্তৰাখণ্ডৰ	N_NNP
+ধাৰাক	N_NNP
+মোৰ	PR_PRP
+আন্তৰিক	J_PJJ
+নমন	N_NN
+!	RD_PUNC
+
+
+আজি	J_PJJ
+মা	N_NN
+গংগাৰ	N_NNP
+নিৰ্মলতা	N_ANN
+সুনিশ্চিত	J_PJJ
+কৰা	V_VM
+৬টা	QT_QTC
+বৃহৎ	J_PJJ
+প্ৰকল্পৰ	N_ANN
+লোকাৰ্পণ	N_NNP
+কৰা	V_VM
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+ইয়াত	PR_PRP
+হৰিদ্বাৰ	N_NNP
+,	RD_PUNC
+ঋষিকেশ	N_NNP
+,	RD_PUNC
+বদ্ৰিনাথ	N_NNP
+আৰু	CC_CCD
+মুনীৰ	N_NNP
+ৰেতীত	N_NN
+ছিৱেজ	N_NN
+ট্ৰিটমেণ্ট	RD_RDF
+প্লেণ্ট	N_NN
+আৰু	CC_CCD
+মিউজিয়ামৰ	N_NN
+দৰে	RB
+প্ৰকল্পও	N_ANN
+অন্তৰ্ভুক্ত	J_VJJ
+।	RD_PUNC
+
+
+এই	DM_DMD
+ব্যাপক	J_PJJ
+প্ৰকল্পৰ	N_ANN
+বাবে	PSP
+উত্তৰাখণ্ডৰ	N_NNP
+সকলো	PR_PRP
+বন্ধুক	N_NN
+মই	PR_PRP
+বহুত	RB
+বহুত	RB
+অভিনন্দন	V_VBT
+জনাইছো	V_VBT
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+এতিয়াৰ	RB
+পৰা	PSP
+কিছু	J_PJJ
+সময়	N_ANN
+আগতে	N_NST
+জলজীৱন	N_NN
+মিছনৰ	N_NN
+সুন্দৰ	J_PJJ
+Logoৰ	RD_RDF
+আৰু	CC_CCD
+মিছন	N_NN
+পথ	N_NN
+প্ৰদৰ্শকো	N_NN
+মুকলি	V_VBT
+কৰা	V_VBT
+হয়	V_VAUX
+।	RD_PUNC
+
+
+জলজীৱন	N_NN
+মিছন-ভাৰতৰ	N_NNP
+গাঁওসমূহত	N_NN
+,	RD_PUNC
+প্ৰতি	RB
+ঘৰলৈকে	N_MNN
+শুদ্ধ	J_PJJ
+পানী	N_MNN
+,	RD_PUNC
+পাইপেৰে	N_NN
+পৌচাই	N_NN
+দিয়াৰ	V_VM
+এয়া	PR_PRP
+বহুত	N_ANN
+ডাঙৰ	J_PJJ
+অভিযান	N_ANN
+।	RD_PUNC
+
+
+মিছনৰ	N_NN
+Logoই	RD_RDF
+ই	PR_PRP
+নিৰন্তৰ	J_PJJ
+এই	DM_DMD
+কথাত	N_ANN
+প্ৰেৰণা	V_VBT
+দিব	V_VBT
+যে	CC_CCD
+পানীৰ	N_MNN
+একো	N_ANN
+একোটা	N_NN
+টোপাল	N_MNN
+বচোৱাটো	N_NN
+দৰকাৰ	N_ANN
+।	RD_PUNC
+
+
+একেদৰেই	CC_CCD
+এই	DM_DMD
+পথ	N_NN
+প্ৰদৰ্শক	N_NN
+গাঁৱৰ	N_NN
+মানুহ	N_NN
+,	RD_PUNC
+গাঁও	N_MNN
+পঞ্চায়তৰ	N_ANN
+বাবেও	N_ANN
+সিমানেই	RB
+আৱশ্যকীয়	J_PJJ
+যিমান	J_PJJ
+চৰকাৰী	J_JJ
+মেচিনেৰীৰ	N_NN
+বাবে	PSP
+আৱশ্যক	J_PJJ
+।	RD_PUNC
+
+
+ই	PR_PRP
+পৰিকল্পনাৰ	N_ANN
+সফলতা	N_ANN
+সুনিশ্চিত	J_PJJ
+কৰাৰ	N_ANN
+বহুত	N_ANN
+ডাঙৰ	J_PJJ
+মাধ্যম	N_MNN
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+আজি	J_PJJ
+যিখন	PR_PRL
+পুথি	N_MNN
+উন্মোচন	N_VNN
+হ'ল	V_VM
+,	RD_PUNC
+তাতো	PR_PRP
+বিস্তাৰিতভাৱে	RB
+কোৱা	V_VM
+হৈছে	V_VAUX
+যে	CC_CCD
+গংগা	N_NNP
+কেনেদৰে	RB
+আমাৰ	PR_PRP
+সাংস্কৃতিক	J_PJJ
+বৈভৱ	N_ANN
+,	RD_PUNC
+আস্থা	N_ANN
+আৰু	CC_CCD
+ঐতিহ্য	N_ANN
+,	RD_PUNC
+তিনিওটাৰে	N_NN
+বহুত	N_ANN
+ডাঙৰ	J_PJJ
+প্ৰতীক	N_ANN
+।	RD_PUNC
+
+
+উত্তৰাখণ্ডত	N_NNP
+উদ্গমৰ	N_NN
+পৰা	PSP
+আৰম্ভ	V_VBT
+কৰি	V_VBT
+পশ্চিম	N_NNP
+বংগত	N_NNP
+গংগা	N_NNP
+সাগৰলৈকে	N_MNN
+গংগা	N_NNP
+,	RD_PUNC
+দেশৰ	N_NN
+প্ৰায়	J_PJJ
+আধা	N_ANN
+জনসংখ্যাৰ	N_ANN
+জীৱনক	N_ANN
+সমৃদ্ধ	V_VBT
+কৰিছে	V_VBT
+।	RD_PUNC
+
+
+সেয়ে	CC_CCS
+গংগাৰ	N_NNP
+নিৰ্মলতা	N_ANN
+আৱশ্যকীয়	J_PJJ
+,	RD_PUNC
+গংগাজীৰ	N_NN
+অবিৰলতা	N_NN
+আৱশ্যক	J_PJJ
+।	RD_PUNC
+
+
+যোৱা	N_ANN
+দশকবিলাকত	N_NN
+গংগা	N_NNP
+জলৰ	N_MNN
+স্বচ্ছতাক	N_ANN
+লৈ	CC_CCD
+ডাঙৰ	RB
+ডাঙৰ	RB
+অভিযান	N_ANN
+আৰম্ভ	N_ANN
+হৈছিল	V_VAUX
+।	RD_PUNC
+
+
+কিন্তু	CC_CCD
+সেই	PR_PRP
+অভিযানত	N_ANN
+জনসাধাৰণ	N_ANN
+ভাগিদাৰ	N_NN
+নাছিল	RP_NEG
+আৰু	CC_CCD
+দূৰদৰ্শিতাও	N_ANN
+নাছিল	RP_NEG
+।	RD_PUNC
+
+
+পৰিণতি	N_ANN
+এনেকুৱা	J_PJJ
+হ'ল	V_VM
+যে	CC_CCD
+গংগাৰ	N_NNP
+পানী	N_MNN
+,	RD_PUNC
+কেতিয়াও	RB
+পৰিষ্কাৰ	J_PJJ
+হ'বলৈ	V_VM
+নাপালে	RP_NEG
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+যদি	CC_CCD
+গংগা	N_NNP
+জলৰ	N_MNN
+স্বচ্ছতাক	N_ANN
+লৈ	CC_CCD
+সেই	PR_PRP
+পুৰণি	J_PJJ
+পদ্ধতিবিলাককে	N_NN
+প্ৰয়োগ	N_VNN
+কৰি	V_VM
+থকা	V_VM
+হ'লে	V_VM
+,	RD_PUNC
+আজিও	RB
+অৱস্থা	N_ANN
+সিমানেই	RB
+বেয়া	J_PJJ
+হ'লহেতেন	N_NNP
+।	RD_PUNC
+
+
+কিন্তু	CC_CCD
+আমি	PR_PRP
+নতুন	J_PJJ
+চিন্তা	N_ANN
+,	RD_PUNC
+নতুন	J_PJJ
+পদক্ষেপেৰে	N_ANN
+আগবাঢ়িলো	N_NN
+।	RD_PUNC
+
+
+আমি	PR_PRP
+নমামী	N_NN
+গংগে	N_NNP
+মিছনক	N_NN
+কেৱল	CC_CCD
+গংগাজীৰ	N_NN
+পৰিষ্কৰণতে	N_NN
+সীমাবদ্ধ	J_PJJ
+ৰখা	V_VBT
+নাই	V_VBT
+,	RD_PUNC
+বৰং	RB
+ইয়াক	PR_PRP
+দেশৰ	N_NN
+সবাতোকৈ	J_JJ
+ডাঙৰ	J_PJJ
+আৰু	CC_CCD
+বিস্তাৰিত	J_PJJ
+নদী	N_MNN
+সংৰক্ষণ	N_ANN
+কাৰ্যক্ৰম	N_ANN
+প্ৰস্তুত	V_VBT
+কৰিলো	V_VBT
+।	RD_PUNC
+
+
+চৰকাৰে	N_ANN
+সকলো	PR_PRP
+দিশতে	N_ANN
+একেলগে	RB
+কাম	N_ANN
+আগবঢ়ালে	J_JJ
+।	RD_PUNC
+
+
+প্ৰথমতে-গংগা	N_NN
+জলত	N_MNN
+লেতেৰা	J_PJJ
+পানী	N_MNN
+পৰাত	N_MNN
+বাধা	V_VBT
+দিবৰ	V_VBT
+বাবে	PSP
+ছিৱেজ	N_NN
+ট্ৰিটমেণ্ট	RD_RDF
+প্লেণ্টৰ	N_NN
+জাল	N_ANN
+পাতিবলৈ	J_PJJ
+আৰম্ভ	V_VBT
+কৰা	V_VBT
+হয়	V_VAUX
+।	RD_PUNC
+
+
+দ্বিতীয়তে-ছিৱেজ	QT_QTO
+ট্ৰিটমেণ্ট	RD_RDF
+প্লেণ্ট	N_NN
+এনেকুৱাকৈ	J_PJJ
+নিৰ্মাণ	V_VBT
+কৰা	V_VBT
+হয়	V_VAUX
+,	RD_PUNC
+যি	PR_PRL
+অহা	J_PJJ
+১০-১৫	QT_QTC
+বছৰৰো	N_ANN
+প্ৰয়োজনীয়তা	N_ANN
+পূৰণ	V_VBI
+কৰিব	V_VBI
+পাৰে	V_VAUX
+।	RD_PUNC
+
+
+তৃতীয়তে-গংগা	N_NN
+নদীৰ	N_MNN
+কিনাৰত	N_ANN
+থকা	V_VM
+এশখন	QT_QTC
+ডাঙৰ	J_PJJ
+চহৰ	N_MNN
+আৰু	CC_CCD
+পাঁচ	QT_QTC
+হাজাৰ	QT_QTF
+গাঁৱক	N_NN
+মুকলিত	IN
+শৌচ	V_VBI
+কৰাৰ	V_VBI
+পৰা	PSP
+মুক্ত	V_VBT
+কৰা	V_VBT
+আৰু	CC_CCD
+চতুৰ্থতে-যিবিলাক	N_NN
+গংগাজীৰ	N_NN
+সহায়ক	J_PJJ
+নদী	N_MNN
+আছে	V_VAUX
+,	RD_PUNC
+তাতো	PR_PRP
+প্ৰদূষণ	N_ANN
+ৰোধ	N_ANN
+কৰিবৰ	V_VM
+বাবে	PSP
+সম্পূৰ্ণ	J_PJJ
+শক্তি	N_ANN
+প্ৰয়োগ	N_VNN
+কৰা	V_VM
+হয়	V_VAUX
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+আজি	J_PJJ
+এই	DM_DMD
+বহুমুখী	J_VJJ
+কামৰ	N_ANN
+পৰিণাম	N_ANN
+আমি	PR_PRP
+সকলোৱে	PR_PRP
+দেখি	V_VM
+আছো	V_VM
+।	RD_PUNC
+
+
+আজি	J_PJJ
+নমামী	N_NN
+গংগে	N_NNP
+কাৰ্যক্ৰমৰ	N_ANN
+জৰিয়তে	CC_CCD
+৩০	QT_QTC
+হাজাৰ	QT_QTF
+কোটি	QT_QTC
+টকাতকৈও	N_NN
+অধিক	J_PJJ
+টকাৰ	N_ANN
+পৰিকল্পনাত	N_ANN
+হয়	V_VAUX
+কাম	N_ANN
+চলি	N_MNN
+আছে	V_VAUX
+অথবা	CC_CCD
+সম্পূৰ্ণ	J_PJJ
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+আজি	J_PJJ
+যি	PR_PRL
+প্ৰকল্পৰ	N_ANN
+লোকাৰ্পণ	N_NNP
+কৰা	V_VM
+হৈছে	V_VAUX
+,	RD_PUNC
+ইয়াৰ	PR_PRP
+লগে	RB
+লগে	RB
+উত্তৰাখণ্ডত	N_NNP
+এই	DM_DMD
+অভিযানৰ	N_ANN
+জৰিয়তে	CC_CCD
+চলি	N_MNN
+থকা	V_VM
+প্ৰায়	J_JJ
+সকলো	J_JJ
+ডাঙৰ	J_PJJ
+প্ৰকল্প	N_ANN
+সম্পূৰ্ণ	J_PJJ
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+কেইবা	J_PJJ
+হাজাৰ	QT_QTC
+কোটিৰ	N_ANN
+এই	DM_DMD
+প্ৰকল্পৰ	N_ANN
+দ্বাৰা	PSP
+মাত্ৰ	CC_CCD
+ছবছৰতে	QT_QTC
+উত্তৰাখণ্ডত	N_NNP
+ছিৱেজ	N_NN
+ট্ৰিটমেণ্টৰ	RD_RDF
+ক্ষমতা	N_ANN
+প্ৰায়	J_PJJ
+চাৰিগুণ	N_NN
+হ'লগৈ	V_VM
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+উত্তৰাখণ্ডততো	N_NN
+পৰিস্থিতি	N_ANN
+এনেকুৱা	J_PJJ
+আছিল	V_VAUX
+যে	CC_CCD
+গংগোত্ৰী	N_NNP
+,	RD_PUNC
+বদ্ৰিনাথ	N_NNP
+,	RD_PUNC
+কেদাৰনাথৰ	N_NNP
+পৰা	PSP
+হৰিদ্বাৰলৈকে	N_NNP
+১৩০তকৈও	QT_QTC
+অধিক	J_PJJ
+নলা	N_MNN
+গংগাজীত	N_NN
+পৰিছিল	V_VM
+।	RD_PUNC
+
+
+আজি	J_PJJ
+এই	DM_DMD
+নলাবিলাকৰ	N_MNN
+অধিকাংশকে	N_ANN
+ৰখাই	V_VBT
+দিয়া	V_VM
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+ইয়াত	PR_PRP
+ঋষিকেশৰ	N_NNP
+পৰা	PSP
+সটে	N_NN
+'মুনীৰ	N_NNP
+ৰেতী'ৰ	N_NN
+সন্দেশ্বৰ	N_NN
+নগৰ	N_ANN
+নলাও	N_MNN
+অন্তৰ্ভুক্ত	J_VJJ
+আছে	V_VAUX
+।	RD_PUNC
+
+
+এই	DM_DMD
+বাবেই	IN
+ইয়াত	PR_PRP
+গংগাজীৰ	N_NN
+দৰ্শনৰ	N_ANN
+বাবে	PSP
+অহা	J_PJJ
+,	RD_PUNC
+ৰাফ্টিং	N_NN
+কৰোতা	N_NN
+বন্ধুসকলৰ	N_NN
+বহুত	N_ANN
+অসুবিধা	N_ANN
+হৈছিল	V_VAUX
+।	RD_PUNC
+
+
+আজিৰ	J_PJJ
+পৰা	PSP
+ইয়াত	PR_PRP
+দেশৰ	N_NN
+প্ৰথম	QT_QTO
+চাৰি	QT_QTC
+মহলীয়া	J_PJJ
+ছিৱেজ	N_NN
+ট্ৰিটমেণ্ট	RD_RDF
+প্লেণ্ট	N_NN
+আৰম্ভ	N_ANN
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+হৰিদ্বাৰতো	N_NNP
+এনেকুৱা	J_PJJ
+২০টাতকৈ	QT_QTC
+অধিক	J_PJJ
+নলা	N_MNN
+বন্ধ	V_VBT
+কৰা	V_VBT
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+প্ৰয়াগৰাজ	N_NNP
+কুম্ভত	N_MNN
+গংগাজীৰ	N_NN
+নিৰ্মলতাক	N_ANN
+বিশ্বজুৰি	N_MNN
+শ্ৰদ্ধালুৱে	N_NN
+অনুভৱ	V_VBI
+কৰিছিল	V_VBI
+।	RD_PUNC
+
+
+এতিয়া	RB
+হৰিদ্বাৰ	N_NNP
+কুম্ভৰ	N_MNN
+সময়তো	N_ANN
+সমগ্ৰ	PR_PRP
+বিশ্বই	N_MNN
+নিৰ্মল	J_PJJ
+গংগা	N_NNP
+স্নানৰ	N_ANN
+অনুভৱ	N_ANN
+লাভ	V_VBT
+কৰিব	V_VBT
+আৰু	CC_CCD
+তাৰবাবে	DM_DMD
+ধাৰাবাহিকভাৱে	RB
+প্ৰচেষ্টা	N_ANN
+চলাই	J_VJJ
+থকা	V_VM
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+নমামী	N_NN
+গংগে	N_NNP
+মিছনৰ	N_NN
+জৰিয়তেই	CC_CCD
+গংগাজীৰ	N_NN
+ওপৰত	N_NST
+অলেখ	J_PJJ
+ঘাটৰ	N_MNN
+সৌন্দৰ্য	N_NN
+বৰ্ধন	N_VNN
+কৰা	V_VM
+হৈছে	V_VAUX
+আৰু	CC_CCD
+গংগা	N_NNP
+বিহাৰৰ	N_NNP
+বাবে	PSP
+আধুনিক	J_PJJ
+ৰিভাৰ	N_NN
+ফ্ৰণ্টৰ	N_NN
+নিৰ্মাণৰ	N_ANN
+কামো	N_ANN
+কৰি	V_VM
+থকা	V_VM
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+হৰিদ্বাৰততো	N_NN
+ৰিভাৰ	N_NN
+ফ্ৰণ্ট	N_NN
+প্ৰস্তুত	J_PJJ
+হৈ	IN
+উঠিছে	V_VM
+।	RD_PUNC
+
+
+এতিয়া	RB
+গংগা	N_NNP
+মিউজিয়াম	N_NNP
+গঢ়ি	V_VM
+উঠিলে	V_VM
+ইয়াৰ	PR_PRP
+আকৰ্ষণ	N_ANN
+আৰু	CC_CCD
+অধিক	J_PJJ
+বাঢ়িব	N_ANN
+।	RD_PUNC
+
+
+এই	DM_DMD
+মিউজিয়াম	N_NNP
+হৰিদ্বাৰলৈ	N_NNP
+অহা	J_PJJ
+পৰ্যটকৰ	N_NN
+বাবে	PSP
+,	RD_PUNC
+গংগাৰ	N_NNP
+সৈতে	CC_CCD
+জড়িত	J_PJJ
+ঐতিহ্যক	N_ANN
+বুজাৰ	V_VBT
+এটা	IN
+মাধ্যম	N_MNN
+হৈ	IN
+উঠিব	V_VM
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+এতিয়া	RB
+নমামী	N_NN
+গংগে	N_NNP
+অভিযানক	N_ANN
+এটা	IN
+নতুন	J_PJJ
+স্তৰলৈ	N_MNN
+লৈ	CC_CCD
+যোৱা	N_ANN
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+গংগাজীৰ	N_NN
+স্বচ্ছতাৰ	J_PJJ
+উপৰি	RB
+এতিয়া	RB
+গংগাৰসৈতে	N_NN
+সংলগ্ন	J_VJJ
+সমগ্ৰ	PR_PRP
+ক্ষেত্ৰৰ	N_MNN
+অৰ্থ	N_ANN
+ব্যৱস্থা	N_ANN
+আৰু	CC_CCD
+পৰিবেশৰ	N_NN
+বিকাশৰ	N_ANN
+ওপৰতো	J_VJJ
+আলোকপাত	N_NN
+কৰা	V_VM
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+চৰকাৰৰ	N_ANN
+দ্বাৰা	PSP
+উত্তৰাখণ্ড	N_NNP
+সহিতে	CC_CCD
+সকলো	PR_PRP
+ৰাজ্যৰ	N_ANN
+কৃষকক	N_NN
+জৈৱিক	J_PJJ
+খেতি	N_ANN
+,	RD_PUNC
+আয়ুৰ্বেদিক	J_JJ
+উদ্ভিদৰ	N_NN
+খেতিৰ	N_ANN
+লাভ	N_ANN
+দিয়াবৰ	N_NN
+বাবে	PSP
+ব্যাপক	J_PJJ
+যোজনা	N_ANN
+প্ৰস্তুত	V_VBT
+কৰা	V_VBT
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+গংগাজীৰ	N_NN
+দুয়োফালে	N_NN
+গছ-গছনি	N_NNP
+লগোৱাৰ	N_NN
+লগতে	CC_CCD
+অৰ্গেনিক	J_PJJ
+ফাৰ্মিঙেৰে	V_VM
+সংলগ্ন	V_VBT
+কৰিডৰো	V_VBT
+বিকশিত	V_VBI
+কৰা	V_VBI
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+গংগা	N_NNP
+জলক	N_ANN
+উন্নত	V_VBT
+কৰাত	V_VBT
+এই	DM_DMD
+কামবিলাকে	N_NN
+এতিয়া	RB
+পথৰুৱা	J_PJJ
+অঞ্চলত	N_ANN
+মিছন	N_NN
+ডলফিনৰ	N_NN
+পৰাও	IN
+সহায়	N_ANN
+লাভ	V_VBT
+কৰিব	V_VBT
+।	RD_PUNC
+
+
+এই	DM_DMD
+১৫	QT_QTC
+আগষ্টতে	N_ANN
+মিছন	N_NN
+ডলফিনৰ	N_NN
+ঘোষণা	V_VBT
+কৰা	V_VBT
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+এই	DM_DMD
+মিছনে	N_NNP
+গংগাজীত	N_NNP
+ডলফিন	N_NN
+সংবৰ্ধনৰ	N_NN
+কাম	N_ANN
+অধিক	J_PJJ
+শক্তিশালী	J_PJJ
+কৰিব	V_VM
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+আজি	J_PJJ
+দেশ	N_MNN
+,	RD_PUNC
+সেই	PR_PRP
+শংকাৰ	N_ANN
+পৰা	PSP
+বাহিৰলৈ	N_NST
+ওলাইছে	V_VM
+যেতিয়া	CC_CCS
+পানীৰ	J_PJJ
+দৰে	J_PJJ
+পইচাতো	N_NN
+উটি	V_VM
+গৈছিলেই	V_VM
+,	RD_PUNC
+কিন্তু	CC_CCD
+ফল	N_NN
+পোৱা	V_VM
+নগৈছিল	RP_NEG
+।	RD_PUNC
+
+
+আজি	J_PJJ
+পইচা	N_NN
+পানীৰ	J_PJJ
+দৰে	J_PJJ
+উটি	V_VM
+নাযায়	RP_NEG
+,	RD_PUNC
+পানীতো	N_MNN
+উটি	V_VM
+নাযায়	RP_NEG
+,	RD_PUNC
+কিন্তু	CC_CCD
+পইচা	N_NN
+পাই	RB
+পাই	RB
+পানীত	N_MNN
+খটুৱাই	V_VBT
+থকা	V_VM
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+আমাৰ	PR_PRP
+ইয়াততো	PR_PRP
+এনেকুৱা	J_PJJ
+অৱস্থা	N_ANN
+আছিল	V_VAUX
+যে	CC_CCD
+পানীৰ	J_PJJ
+দৰে	J_PJJ
+মহত্বপূৰ্ণ	N_NN
+বিষয়	N_ANN
+,	RD_PUNC
+অনেক	J_PJJ
+মন্ত্ৰালয়	N_ANN
+আৰু	CC_CCD
+বিভাগত	N_ANN
+অকাজভাগী	J_PJJ
+হৈ	IN
+পৰি	V_VM
+আছিল	V_VAUX
+,	RD_PUNC
+ভাগ-বাতোৱাৰা	N_NN
+হৈ	IN
+আছিল	V_VAUX
+।	RD_PUNC
+
+
+এই	DM_DMD
+মন্ত্ৰালয়বিলাকত	N_NN
+,	RD_PUNC
+বিভাগত	N_ANN
+না	RB
+কোনো	J_PJJ
+তালমিল	N_NN
+আছিল	V_VAUX
+আৰু	CC_CCD
+না	RB
+সমান	J_PJJ
+লক্ষ্যৰ	N_ANN
+বাবে	PSP
+কাম	V_VBI
+কৰাৰ	V_VBI
+কোনো	J_PJJ
+স্পষ্ট	J_PJJ
+দিক-নিৰ্দেশনা	N_NN
+আছিল	V_VAUX
+।	RD_PUNC
+
+
+পৰিণতিত	N_ANN
+দেশত	N_MNN
+জলসিঞ্চন	N_NNP
+অথবা	CC_CCD
+খোৱা	V_VM
+পানীৰ	N_MNN
+সৈতে	CC_CCD
+জড়িত	J_PJJ
+সমস্যা	N_ANN
+,	RD_PUNC
+নিৰন্তৰ	J_PJJ
+সমস্যা	N_ANN
+হৈয়ে	V_VAUX
+আছিল	V_VAUX
+।	RD_PUNC
+
+
+আপোনালোকে	PR_PRP
+ভাবক	N_ANN
+,	RD_PUNC
+স্বাধীনতাৰ	J_PJJ
+ইমান	J_PJJ
+বছৰৰ	N_ANN
+পিছতো	RB
+১৫	QT_QTC
+কোটিতকৈও	N_NN
+বেছি	J_PJJ
+ঘৰত	N_MNN
+পাইপেৰে	N_NN
+খোৱা	V_VM
+পানী	N_MNN
+নাপাইছিল	RP_NEG
+।	RD_PUNC
+
+
+ইয়াত	PR_PRP
+উত্তৰাখণ্ডতো	N_NNP
+হাজাৰ	RB
+হাজাৰ	RB
+ঘৰত	N_MNN
+একেই	J_PJJ
+অৱস্থা	N_ANN
+আছিল	V_VAUX
+।	RD_PUNC
+
+
+গাঁওসমূহত	N_NN
+,	RD_PUNC
+পাহাৰ	N_MNN
+,	RD_PUNC
+য'লৈ	N_NN
+অহা-যোৱা	N_VNN
+পৰ্যন্ত	RB
+কঠিন	J_PJJ
+,	RD_PUNC
+তাত	PR_PRP
+খোৱা	V_VM
+পানীৰ	N_MNN
+ব্যৱস্থা	N_ANN
+কৰাত	N_NN
+সবাতোকৈ	J_JJ
+বেছি	J_PJJ
+কষ্ট	N_ANN
+আমাৰ	PR_PRP
+মাতৃসকলে-ভগ্নীসকলে-জীয়ৰীহঁতে	N_NN
+ভূগিবলগা	N_NN
+হৈছিল	V_VAUX
+,	RD_PUNC
+লিখা-পঢ়া	N_NN
+কৰিবলগা	N_NN
+হৈছিল	V_VAUX
+।	RD_PUNC
+
+
+এই	DM_DMD
+সমস্যাবিলাক	N_ANN
+দূৰ	V_VBT
+কৰিবলৈ	V_VBT
+দেশৰ	N_NN
+পানীৰে	N_MNN
+জড়িত	J_PJJ
+সকলো	PR_PRP
+প্ৰত্যাহ্বানৰ	N_ANN
+ওপৰত	N_NST
+একেলগে	RB
+শক্তি	N_ANN
+প্ৰয়োগ	N_VNN
+কৰিবৰ	V_VM
+বাবেই	IN
+জল	N_MNN
+শক্তি	N_ANN
+মন্ত্ৰালয়	N_ANN
+গঠন	V_VBT
+কৰা	V_VBT
+হয়	V_VAUX
+।	RD_PUNC
+
+
+মই	PR_PRP
+আনন্দিত	J_PJJ
+যে	CC_CCD
+বহুত	N_ANN
+কম	J_PJJ
+সময়ত	N_NST
+জল	N_MNN
+শক্তি	N_ANN
+মন্ত্ৰালয়ে	N_ANN
+দ্ৰুততাৰে	J_PJJ
+কাম	N_ANN
+চম্ভালিবলৈ	N_NN
+আৰম্ভ	V_VBT
+কৰি	V_VBT
+দিলে	V_VM
+।	RD_PUNC
+
+
+পানীৰ	N_MNN
+সৈতে	CC_CCD
+জড়িত	J_PJJ
+প্ৰত্যাহ্বানসমূহৰ	N_NN
+লগতে	CC_CCD
+এতিয়া	RB
+এই	DM_DMD
+মন্ত্ৰালয়ে	N_ANN
+দেশৰ	N_NN
+গাঁওসমূহত	N_NN
+,	RD_PUNC
+প্ৰতিঘৰলৈকে	N_NN
+পানী	N_MNN
+পৌচাই	N_NN
+দিয়াৰ	V_VM
+মিছনত	N_NN
+জড়িত	J_PJJ
+হৈ	IN
+আছে	V_VAUX
+।	RD_PUNC
+
+
+আজি	J_PJJ
+জল-জীৱন	N_NN
+মিছনৰ	N_NN
+জৰিয়তে	CC_CCD
+প্ৰতিদিনে	RB
+প্ৰায়	J_PJJ
+এক	QT_QTC
+লাখ	QT_QTC
+পৰিয়ালক	N_ANN
+বিশুদ্ধ	J_PJJ
+খোৱা	V_VM
+পানীৰ	N_MNN
+সুবিধাৰ	N_ANN
+সৈতে	CC_CCD
+সংযোগ	V_VBT
+কৰা	V_VBT
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+কেৱল	CC_CCD
+এবছৰতে	N_NN
+দুই	QT_QTC
+কোটিতকৈ	RB
+অধিক	J_PJJ
+পৰিয়াললৈ	N_ANN
+খোৱা	V_VM
+পানীৰ	N_MNN
+যোগান	V_VBT
+ধৰা	V_VBT
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+ইয়াত	PR_PRP
+উত্তৰাখণ্ডততো	N_NNP
+ত্ৰিবেন্দ্ৰজী	N_NN
+আৰু	CC_CCD
+তেওঁৰ	PR_PRP
+দলে	N_ANN
+এখোজ	N_NN
+আগুৱাই	V_VBI
+গৈ	V_VM
+মাত্ৰ	CC_CCD
+এটকাত	QT_QTF
+পানীৰ	N_MNN
+কানেকচন	N_NN
+দিয়াৰ	V_VM
+দায়িত্ব	N_ANN
+লৈছে	CC_CCD
+।	RD_PUNC
+
+
+মই	PR_PRP
+আনন্দিত	J_PJJ
+যে	CC_CCD
+উত্তৰাখণ্ড	N_NNP
+চৰকাৰে	N_ANN
+২০২২লৈকেহে	QT_QTC
+ৰাজ্যৰ	N_ANN
+প্ৰতি	RB
+ঘৰ	N_MNN
+পৰ্যন্ত	RB
+পানী	N_MNN
+যোগানৰ	N_ANN
+লক্ষ্য	N_ANN
+ৰাখিছে	V_VM
+।	RD_PUNC
+
+
+কৰোণাৰ	N_NN
+এই	DM_DMD
+সংকটৰ	N_ANN
+সময়তো	N_ANN
+উত্তৰাখণ্ডত	N_NNP
+যোৱা	N_ANN
+৪-৫	QT_QTC
+মাহত	N_ANN
+৫০	QT_QTC
+হাজাৰতকৈও	N_NN
+অধিক	J_PJJ
+পৰিয়াললৈ	N_ANN
+পানীৰ	N_MNN
+কানেকচন	N_NN
+দিয়া	V_VM
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+এয়া	PR_PRP
+উত্তৰাখণ্ড	N_NNP
+চৰকাৰৰ	N_ANN
+সংকল্পবদ্ধতাৰ	J_VJJ
+পৰিচায়ক	N_ANN
+,	RD_PUNC
+কমিটমেণ্টৰ	N_NN
+পৰিচায়ক	N_ANN
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+জল-জীৱন	N_NN
+মিছন	N_NN
+গাঁও	N_MNN
+আৰু	CC_CCD
+গৰীবৰ	J_PJJ
+ঘৰলৈকে	N_MNN
+পানী	N_MNN
+পৌচাই	N_NN
+দিয়াৰ	V_VM
+অভিযানতো	N_ANN
+হয়েই	V_VBI
+,	RD_PUNC
+ই	PR_PRP
+একপ্ৰকাৰ	N_NN
+গ্ৰাম	N_MNN
+স্বৰাজক	N_ANN
+,	RD_PUNC
+গাঁৱৰ	N_NN
+সবলীকৰণক	N_VNN
+,	RD_PUNC
+ইয়াৰ	PR_PRP
+বাবেও	N_ANN
+এক	QT_QTC
+নতুন	J_PJJ
+শক্তি	N_ANN
+,	RD_PUNC
+নতুন	J_PJJ
+বল	N_ANN
+,	RD_PUNC
+নতুন	J_PJJ
+গতি	N_VNN
+প্ৰদান	V_VBT
+কৰা	V_VBT
+অভিযান	N_ANN
+হৈ	IN
+পৰিছে	V_VM
+।	RD_PUNC
+
+
+চৰকাৰে	N_ANN
+কাম	V_VBI
+কৰাত	V_VBI
+কেনেদৰে	RB
+বহুত	N_ANN
+ডাঙৰ	J_PJJ
+পৰিৱৰ্তন	N_ANN
+আহিছে	V_VAUX
+ই	PR_PRP
+তাৰো	PR_PRP
+উদাহৰণ	N_ANN
+।	RD_PUNC
+
+
+প্ৰথমতে	RB
+চৰকাৰী	J_JJ
+পৰিকল্পনাত	N_ANN
+প্ৰায়ে	RB
+দিল্লীতহে	N_NNP
+বহি	V_VBT
+সিদ্ধান্ত	N_ANN
+লোৱা	V_VAUX
+হৈছিল	V_VAUX
+।	RD_PUNC
+
+
+কোন	PR_PRQ
+গাঁৱত	PR_PRQ
+ক'ত	N_NN
+ছ'ৰ্ছ	N_NN
+টেংক	N_NN
+হ'ব	V_VM
+,	RD_PUNC
+ক'ৰ	N_NN
+পৰা	PSP
+পাইপলাইন	N_NN
+বহুৱাব	N_NN
+,	RD_PUNC
+এই	DM_DMD
+সকলো	PR_PRP
+সিদ্ধান্ত	N_ANN
+বেছিভাগ	N_NN
+ৰাজধানীতে	N_MNN
+হৈছিল	V_VAUX
+।	RD_PUNC
+
+
+কিন্তু	CC_CCD
+জল-জীৱন	N_NN
+মিছনে	N_NNP
+এতিয়া	RB
+এই	DM_DMD
+সম্পূৰ্ণ	J_PJJ
+প্ৰণালীয়েই	N_ANN
+সলাই	V_VBT
+দিলে	V_VM
+।	RD_PUNC
+
+
+গাঁৱত	N_NN
+পানীৰে	N_MNN
+জড়িত	J_PJJ
+কি	PR_PRQ
+কাম	PR_PRQ
+হ'ব	V_VM
+,	RD_PUNC
+ক'ত	N_NN
+কাম	N_ANN
+হ'ব	V_VM
+,	RD_PUNC
+তাৰ	PR_PRP
+প্ৰস্তুতি	N_ANN
+কি	PR_PRQ
+হ'ব	PR_PRQ
+,	RD_PUNC
+এই	DM_DMD
+সকলো	PR_PRP
+নিৰ্দ্ধাৰণ	V_VBI
+কৰা	V_VBI
+,	RD_PUNC
+সিদ্ধান্ত	N_ANN
+লোৱাৰ	V_VBT
+অধিকাৰ	N_ANN
+এতিয়া	RB
+গাঁৱৰ	N_NN
+মানুহকে	N_NN
+দিয়া	V_VM
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+পানীৰ	N_MNN
+প্ৰজেক্টৰ	N_NN
+পৰিকল্পনাৰ	N_ANN
+পৰা	PSP
+আৰম্ভ	V_VBT
+কৰি	V_VBT
+চোৱাচিতা	N_NN
+আৰু	CC_CCD
+সঞ্চালন	N_VNN
+পৰ্যন্ত	RB
+সম্পূৰ্ণ	J_PJJ
+ব্যৱস্থা	N_ANN
+গাঁও	N_MNN
+পঞ্চায়তে	N_ANN
+,	RD_PUNC
+পানী	N_MNN
+সমিতিসমূহে	N_NN
+কৰিব	V_VM
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+নমামী	N_NN
+গংগে	N_NNP
+অভিযানেই	N_ANN
+হওক	V_VM
+,	RD_PUNC
+জল-জীৱন	N_NN
+মিছনেই	N_NN
+হওক	V_VM
+,	RD_PUNC
+স্বচ্ছ	J_PJJ
+ভাৰত	N_NNP
+মিছনেই	N_NN
+হওক	V_VM
+,	RD_PUNC
+এনেকুৱা	J_PJJ
+অনেক	J_PJJ
+কাৰ্যক্ৰম	N_ANN
+যোৱা	N_ANN
+ছবছৰৰ	N_NN
+বৃহৎ	J_PJJ
+ৰিফৰ্মছৰ	N_NNP
+অংশ	N_NN
+।	RD_PUNC
+
+
+এয়া	PR_PRP
+এনেকুৱা	J_PJJ
+ৰিফৰ্ম	N_NNP
+যি	PR_PRL
+সাধাৰণ	J_PJJ
+মানুহৰ	N_NN
+জীৱনত	N_ANN
+সামাজিক	J_PJJ
+ব্যৱস্থাত	N_ANN
+চিৰদিনৰ	J_JJ
+বাবে	PSP
+সাৰ্থক	J_JJ
+পৰিৱৰ্তন	N_ANN
+অনাত	IN
+সহায়ক	J_PJJ
+।	RD_PUNC
+
+
+যোৱা	N_ANN
+এক-ডেৰ	QT_QTC
+বছৰততো	N_NN
+এই	DM_DMD
+ক্ষেত্ৰত	N_NST
+আৰু	CC_CCD
+বেছি	J_PJJ
+দ্ৰুততা	N_ANN
+আহিছে	V_VAUX
+।	RD_PUNC
+
+
+বৰ্তমান	N_ANN
+যি	PR_PRL
+সংসদৰ	N_ANN
+অধিবেশন	N_ANN
+শেষ	N_ANN
+হ'ল	V_VM
+,	RD_PUNC
+ইয়াত	PR_PRP
+দেশৰ	N_NN
+কৃষক	N_NN
+,	RD_PUNC
+শ্ৰমিক	N_NN
+আৰু	CC_CCD
+দেশৰ	N_NN
+স্বাস্থ্যৰ	N_ANN
+সৈতে	CC_CCD
+জড়িত	J_PJJ
+বৃহৎ	J_PJJ
+সংস্কাৰ	V_VBT
+সাধন	N_ANN
+কৰা	V_VM
+হৈছে	V_VAUX
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+এতিয়াৰ	RB
+পৰা	PSP
+কেইদিনমানৰ	J_PJJ
+আগতে	N_NST
+দেশে	N_ANN
+নিজৰ	PR_PRP
+কৃষকক	N_NN
+অনেক	J_PJJ
+বন্ধনৰ	N_ANN
+পৰা	PSP
+মুক্ত	V_VBT
+কৰিছে	V_VBT
+।	RD_PUNC
+
+
+এতিয়া	RB
+দেশৰ	N_NN
+কৃষকে	N_NN
+যিকোনো	IN
+স্থানত	N_MNN
+,	RD_PUNC
+যিকোনো	IN
+লোকক	N_NN
+নিজৰ	PR_PRP
+শস্য	N_NNP
+বিক্ৰী	V_VBT
+কৰিব	V_VBT
+পাৰে	V_VAUX
+।	RD_PUNC
+
+
+কিন্তু	CC_CCD
+আজি	J_PJJ
+যেতিয়া	CC_CCS
+কেন্দ্ৰীয়	J_PJJ
+চৰকাৰে	N_ANN
+কৃষকক	N_NN
+তেওঁলোকৰ	J_PJJ
+অধিকাৰ	N_ANN
+দি	V_VM
+আছে	V_VAUX
+,	RD_PUNC
+তথাপি	CC_CCD
+এই	DM_DMD
+লোকসকলে	N_NN
+বিৰোধিতা	V_VBT
+কৰিছে	V_VBT
+।	RD_PUNC
+
+
+এই	DM_DMD
+লোকসকলে	N_NN
+বিচাৰে	N_ANN
+যে	CC_CCD
+দেশৰ	N_NN
+কৃষকে	N_NN
+খোলা	J_PJJ
+বজাৰত	N_ANN
+নিজৰ	PR_PRP
+শস্য	N_NNP
+বেচিব	J_PJJ
+নোৱাৰক	J_PJJ
+।	RD_PUNC
+
+
+এই	DM_DMD
+লোকসকলে	N_NN
+বিচাৰে	N_ANN
+যে	CC_CCD
+কৃষকৰ	N_NN
+গাড়ীবোৰ	N_MNN
+জব্দ	N_VNN
+হৈ	IN
+থাকক	N_MNN
+,	RD_PUNC
+তেওঁলোকৰ	J_PJJ
+পৰা	PSP
+আদায়	N_ANN
+হৈ	IN
+থাকক	N_MNN
+,	RD_PUNC
+তেওঁলোকৰ	J_PJJ
+পৰা	PSP
+কম	J_PJJ
+দামত	N_ANN
+ফচল	N_NNP
+ক্ৰয়	V_VBT
+কৰি	V_VBT
+,	RD_PUNC
+মুনাফা	N_ANN
+অৰ্জন	V_VBT
+কৰি	V_VBT
+থাকক	N_MNN
+।	RD_PUNC
+
+
+এওঁলোকে	PR_PRP
+কৃষকৰ	N_NN
+স্বাধীনতাৰ	J_PJJ
+বিৰোধিতা	V_VBT
+কৰি	V_VBT
+আছে	V_VAUX
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+বছৰ	RB
+বছৰ	RB
+ধৰি	V_VM
+এই	DM_DMD
+লোকসকলে	N_NN
+কৈ	CC_CCD
+আহিছে	V_VAUX
+যে	CC_CCD
+এম	N_NN
+এছ	N_NN
+পি	V_VBT
+বলৱৎ	V_VBT
+কৰিব	V_VBT
+,	RD_PUNC
+কিন্তু	CC_CCD
+কৰা	V_VM
+নাই	V_VBT
+।	RD_PUNC
+
+
+এম	N_NN
+এছ	N_NN
+পি	V_VBT
+বলৱৎ	V_VBT
+কৰাৰ	V_VBT
+কাম	N_ANN
+স্বামীনাথন	N_NN
+কমিছনৰ	N_NN
+ইচ্ছা	N_ANN
+অনুসৰি	RB
+,	RD_PUNC
+আমাৰ	PR_PRP
+চৰকাৰেই	N_ANN
+কৰিলে	V_VM
+।	RD_PUNC
+
+
+আজি	J_PJJ
+এই	DM_DMD
+লোকসকলে	N_NN
+এম	N_NN
+এছ	N_NN
+পিৰ	V_VBT
+ওপৰত	N_NST
+কৃষকৰ	N_NN
+মাজত	N_NST
+বিভ্ৰান্তি	N_ANN
+বিয়পাই	V_VBI
+আছে	V_VAUX
+।	RD_PUNC
+
+
+দেশত	N_MNN
+এম	N_NN
+এছ	N_NN
+পিও	V_VBT
+থাকিব	V_VM
+আৰু	CC_CCD
+কৃষকে	N_NN
+যিকোনো	IN
+স্থানত	N_MNN
+নিজৰ	PR_PRP
+শস্য	N_NNP
+বিক্ৰী	V_VBT
+কৰাৰ	V_VBT
+স্বাধীনতাও	N_ANN
+লাভ	V_VBT
+কৰিব	V_VBT
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+দেশে	N_ANN
+এয়াও	PR_PRP
+দেখিলে	V_VM
+যে	CC_CCD
+যেতিয়া	CC_CCS
+এখন	QT_QTC
+দেশ	N_MNN
+এটা	IN
+টেক্সৰ	N_ANN
+কথা	N_ANN
+আহিল	V_VM
+,	RD_PUNC
+জি	N_NNP
+এছ	N_NNP
+টিৰ	N_NNP
+কথা	N_ANN
+আহিল	V_VM
+,	RD_PUNC
+তেতিয়া	CC_CCD
+এই	DM_DMD
+লোকসকলে	N_NN
+আকৌ	RB
+বিৰোধিতা	V_VBT
+কৰাত	V_VBT
+লাগিছিল	V_VAUX
+।	RD_PUNC
+
+
+জি	N_NNP
+এছ	N_NNP
+টিৰ	N_NNP
+ফলত	N_NN
+,	RD_PUNC
+দেশত	N_MNN
+ঘৰুৱা	J_PJJ
+সামগ্ৰীৰ	N_MNN
+ওপৰত	N_NST
+লাগিবলগীয়া	V_VM
+টেক্স	N_ANN
+বহুত	N_ANN
+কম	J_PJJ
+হৈ	IN
+গ'ল	N_NN
+।	RD_PUNC
+
+
+বেছিভাগ	N_NN
+ঘৰুৱা	J_PJJ
+সামগ্ৰী	N_MNN
+,	RD_PUNC
+ৰন্ধনৰ	N_VNN
+বাবে	PSP
+জৰুৰী	J_PJJ
+বস্তুৰ	N_MNN
+ওপৰত	N_NST
+টেক্স	N_ANN
+এতিয়া	RB
+নাই	V_VBT
+অথবা	CC_CCD
+পাঁচ	QT_QTC
+শতাংশতকৈও	RB
+কম	J_PJJ
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+এই	DM_DMD
+লোকসকল	N_NN
+না	RB
+কৃষকৰ	N_NN
+লগত	N_NST
+আছে	V_VAUX
+,	RD_PUNC
+না	RB
+ন-জোৱানৰ	N_NN
+লগত	N_NST
+আছে	V_VAUX
+আৰু	CC_CCD
+না	RB
+জোৱানৰ	N_NN
+লগত	N_NST
+আছে	V_VAUX
+।	RD_PUNC
+
+
+আপোনালোকৰ	PR_PRP
+নিশ্চয়	RB
+মনত	N_ANN
+আছে	V_VAUX
+যে	CC_CCD
+যেতিয়া	CC_CCS
+আমাৰ	PR_PRP
+চৰকাৰে	N_ANN
+ৱান	N_NN
+ৰেংক	N_MNN
+ৱান	N_NN
+পেঞ্চন	N_NNP
+আনে	PR_PRP
+,	RD_PUNC
+উত্তৰাখণ্ডৰ	N_NNP
+কেইবাহাজাৰ	N_NN
+প্ৰাক্তন	J_VJJ
+সৈনিককো	N_NN
+তেওঁলোকৰ	J_PJJ
+অধিকাৰ	N_ANN
+প্ৰদান	V_VBT
+কৰা	V_VBT
+,	RD_PUNC
+তেতিয়া	CC_CCD
+এই	DM_DMD
+লোকসকলে	N_NN
+বিৰোধিতা	V_VBT
+কৰিছিল	V_VBT
+।	RD_PUNC
+
+
+ৱান	N_NN
+ৰেংক	N_MNN
+ৱান	N_NN
+পেঞ্চন	N_NNP
+বলৱৎ	V_VBT
+কৰাৰ	V_VBT
+পিছৰ	J_PJJ
+পৰা	PSP
+চৰকাৰে	N_ANN
+প্ৰাক্তন	J_VJJ
+সৈনিকক	N_NN
+প্ৰায়	J_PJJ
+১১	QT_QTC
+হাজাৰ	QT_QTF
+কোটি	QT_QTC
+টকা	N_ANN
+এৰিয়াৰ	N_NN
+হিচাপে	N_ANN
+দিছে	V_VM
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+বছৰ	RB
+বছৰ	RB
+ধৰি	V_VM
+এই	DM_DMD
+লোকসকলে	N_NN
+দেশৰ	N_NN
+সেনাক	N_NN
+,	RD_PUNC
+দেশৰ	N_NN
+বায়ু	N_ANN
+সেনাক	N_NN
+শক্তিশালী	J_PJJ
+কৰিবৰ	V_VM
+বাবে	PSP
+একো	N_ANN
+নকৰিলে	RP_NEG
+।	RD_PUNC
+
+
+বায়ু	N_ANN
+সেনাই	N_NN
+কৈ	CC_CCD
+থাকিল	V_VM
+যে	CC_CCD
+আমাক	PR_PRP
+আধুনিক	J_PJJ
+যুঁজাৰু	N_MNN
+বিমান	N_MNN
+লাগে	V_VBT
+।	RD_PUNC
+
+
+কিন্তু	CC_CCD
+এই	DM_DMD
+লোকসকলে	N_NN
+বায়ু	N_ANN
+সেনাৰ	N_NN
+কথাক	N_ANN
+আওকাণ	V_VBT
+কৰি	V_VBT
+থাকিল	V_VM
+।	RD_PUNC
+
+
+যেতিয়া	CC_CCS
+আমাৰ	PR_PRP
+চৰকাৰে	N_ANN
+চিধা	J_PJJ
+ফ্ৰাঞ্চ	N_NN
+চৰকাৰৰ	N_ANN
+পৰা	PSP
+ৰাফেল	N_NN
+যুঁজাৰু	N_MNN
+বিমানৰ	N_MNN
+চুক্তি	N_ANN
+কৰিলে	V_VM
+,	RD_PUNC
+তেতিয়া	CC_CCD
+এওঁলোকৰ	PR_PRP
+আকৌ	RB
+সমস্যা	N_ANN
+হ'বলৈ	V_VM
+ধৰিলে	V_VM
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+চাৰি	QT_QTC
+বছৰৰ	N_ANN
+আগৰ	J_PJJ
+এয়াইতো	DM_DMD
+সময়	N_ANN
+আছিল	V_VAUX
+,	RD_PUNC
+যি	PR_PRL
+সময়ত	N_NST
+দেশৰ	N_NN
+বীৰসকলে	N_NN
+ছাৰ্জিকেল	N_NN
+ষ্ট্ৰাইক	N_NN
+কৰি	V_VM
+সন্ত্ৰাসৰ	N_ANN
+ঘাটি	N_ANN
+ধ্বংস	V_VBT
+কৰি	V_VBT
+দিছিল	V_VAUX
+।	RD_PUNC
+
+
+কিন্তু	CC_CCD
+এই	DM_DMD
+লোকসকলে	N_NN
+নিজৰ	PR_PRP
+বীৰ	N_NN
+যোদ্ধাসকলৰ	N_NN
+সাহসৰ	N_ANN
+প্ৰশংসা	V_VBT
+কৰাৰ	V_VBT
+সলনি	CC_CCD
+তেওঁলোকৰ	J_PJJ
+পৰাহে	IN
+ছাৰ্জিকেল	N_NN
+ষ্ট্ৰাইকৰ	N_NN
+প্ৰমাণ	N_ANN
+বিচাৰি	V_VM
+আছিল	V_VAUX
+।	RD_PUNC
+
+
+যেতিয়া	CC_CCS
+দেশৰ	N_NN
+অসংখ্য	J_PJJ
+ঐতিহ্যক	N_ANN
+সংযুক্ত	V_VBT
+কৰাৰ	V_VBT
+ঐতিহাসিক	J_PJJ
+কাম	V_VBI
+কৰা	V_VBI
+চৰ্দাৰ	N_NNP
+পেটেলৰ	N_NNP
+পৃথিৱীৰ	N_MNN
+সবাতোকৈ	J_JJ
+ওখ	J_PJJ
+প্ৰতিমাৰ	N_ANN
+অনাবৰণ	N_NN
+হৈ	IN
+আছিল	V_VAUX
+,	RD_PUNC
+তেতিয়াও	CC_CCD
+এই	DM_DMD
+লোকসকলে	N_NN
+ইয়াৰ	PR_PRP
+বিৰোধিতা	V_VBT
+কৰিছিল	V_VBT
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+যেতিয়া	CC_CCS
+গৰীবক	J_PJJ
+১০%	QT_QTC
+সংৰক্ষণ	N_ANN
+দিয়াৰ	V_VM
+সিদ্ধান্ত	N_ANN
+হয়	V_VAUX
+,	RD_PUNC
+তেতিয়াও	CC_CCD
+এওঁলোক	PR_PRP
+ইয়াৰ	PR_PRP
+বিৰুদ্ধে	J_PJJ
+থিয়	J_PJJ
+দিছিল	V_VAUX
+।	RD_PUNC
+
+
+যেতিয়া	CC_CCS
+২৬	QT_QTC
+নবেম্বৰত	N_NN
+সংবিধান	N_ANN
+দিৱস	N_ANN
+পালনৰ	N_VNN
+কথা	N_ANN
+উত্থাপন	N_VNN
+হৈছিল	V_VAUX
+তেতিয়াও	CC_CCD
+এওঁলোক	PR_PRP
+ইয়াৰ	PR_PRP
+বিৰোধিতা	V_VBT
+কৰিছিল	V_VBT
+।	RD_PUNC
+
+
+ড৹	N_NN
+বাবাচাহেব	N_NNP
+আম্বেদকাৰৰ	N_NNP
+বিৰোধিতা	V_VBT
+কৰিছিল	V_VBT
+।	RD_PUNC
+
+
+বন্ধুসকল	N_NN
+,	RD_PUNC
+যোৱা	N_ANN
+মাহত	N_ANN
+অযোধ্যাত	N_NN
+ভব্য	J_PJJ
+ৰাম	N_NNP
+মন্দিৰৰ	N_MNN
+নিৰ্মাণৰ	N_ANN
+বাবে	PSP
+ভূমি	N_MNN
+পূজন	N_VNN
+কৰা	V_VM
+হয়	V_VAUX
+।	RD_PUNC
+
+
