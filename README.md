@@ -8,7 +8,7 @@ The dataset has been annonated by an automatic POS tagger of which the accuracy 
 
 ## How to run
 
-Download the pre-trained model from the link- [AsPOS] (https://drive.google.com/file/d/1IZ69XKCuekfv_afL9UH2q4VYVYeDtRSZ/view?usp=sharing)
+Download the pre-trained model from the link- [AsPOS] (https://drive.google.com/file/d/1-H9TQ1jxdLK_7LmYX0bdFDoKXKazq_lp/view?usp=sharing)
 
 ```
 from flair.models import SequenceTagger
