@@ -19,9 +19,19 @@ from flair.data import  Sentence, Token
 model = SequenceTagger.load('AsPOS.pt')
 
 #  create example sentence
+sen='ফুকন বসুমতাৰী এজন অধ্য়াপক । তেওঁ বৰ্তমান কোকৰাঝাৰত থাকে ।'
+sentence = Sentence(sen)
+# predict tags and print
+model.predict(sentence)
+print(sentence.to_tagged_string())
+ফুকন <N_NNP> বসুমতাৰী <N_NN> এজন <QT_QTF> অধ্য়াপক <N_NN> । <RD_PUNC> তেওঁ <PR_PRP> বৰ্তমান <RB> কোকৰাঝাৰত <N_NNP> থাকে <V_VM> । <RD_PUNC>
+
+#  create example sentence
 sen='মাতৃভাষাৰ সমান্তৰালকৈ সংস্কৃত, ইংৰাজী ভাষাৰ চৰ্চা অত্যন্ত জৰুৰী ৷'
 sentence = Sentence(sen)
-
 # predict tags and print
 model.predict(sentence)
 print(sentence.to_tagged_string()
+মাতৃভাষাৰ <N_NN> সমান্তৰালকৈ <N_NN> সংস্কৃত <N_NNP> , <RD_PUNC> ইংৰাজী <N_NNP> ভাষাৰ <N_ANN> চৰ্চা <N_NN> অত্যন্ত <RP_INTF> জৰুৰী <N_NN> ৷ <RD_PUNC>
+
+```
